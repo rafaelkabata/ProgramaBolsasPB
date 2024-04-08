@@ -1,4 +1,4 @@
-# Exercícios
+# Desafio
 
 O desafio era criar um arquivo que automatizasse uma tabela para gerar relatorio diário.
 Criou se o arquivo processamento_de_vendas.sh que todo dia 15:27 fazia uma leitura da tabela dados_de_vendas.csv e gerava um relatorio automático.
