@@ -15,7 +15,7 @@ Nos meus momentos de lazer, gosto de ler, jogar no meu PlayStation 5, apreciar b
 ## Sprints
 
 Sprint 1. Tivemos oportunidade de aprender sobre Linux, criação de aplicação .sh, comandos básicos ao avançado. Vimos também Git, como criar repositório, enviar arquivos para o Github e tudo que o envolva. O desafio da sprint 1 consistia na criação de uma automação para uma tabela .csv para que ele gerasse um relatório diário com informações relevantes de forma automática.
-
+Sprint 2. Tivemos a oportunidade de estar aprendendo um pouco mais sobre modelagem de banco de dados Relacional e Dimensional, assim como linguagem SQL.
 </div>
 
 
