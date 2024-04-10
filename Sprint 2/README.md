@@ -1,43 +1,41 @@
+# Desafio
 
-# Instruções
+O objetivo foi a prática do conhecimento de modelagem de banco de dados relacional e Dimensional com linguagem SQL.
 
-Neste arquivo você irá apresentar suas entregas da Sprint corrente. Observe que existem 4 diretórios no exemplo: **exercícios**, **certificados** e **evidências**.
-
- - O diretório **exercícios** corresponde ao local onde você irá adicionar o código-fonte das atividades de codificação da Sprint, quando houver.
- - O diretório **evidências** você pode utilizar para adicionar imagens demonstrando a execução/resultados de atividades, quando necessário.
- - O diretório **certificados** é o local onde você irá armazenar os certificados dos cursos solicitados durante a sprint. O nome de cada certificado de corresponder ao título do curso.
- - O diretório **desafio** é o local onde você irá armazenar a resolução do que se pede no desafio, todos recursos que você considerar importante deverá está dentro desse diretório.
-
-Utilize o arquivo README.md da Sprint para organizar todas as suas entregas. Faça referência aos arquivos de código-fonte. Evite colocar código diretamente no Markdown pois dificulta nossa avaliação.
-
-
-# Exercícios
-
-
-1. ...
-[Resposta Ex1.](exercicios/ex1.txt)
-
-
-2. ...
-[Resposta Ex2.](exercicios/ex2.txt)
-
-
-
-
+</div>
 # Evidências
 
+Na pasta evidências podemos observar algumas imagens
 
-Ao executar o código do exercício ... observei que ... conforme podemos ver na imagem a seguir:
+- Diagrama do banco de dados Relacional (evidencias/Diagrama_BDRelacional.png)
+- Diagrama Dimensional (evidencias/Diagrama_dimensional.png)
+- Código SQL da modelagem do banco de dados relacional (evidencias/codigo.png)
+- Código SQL da modelagem do banco de dados relacional (evidencias/codigo2.png)
+- Código SQL da modelagem do banco de dados relacional (evidencias/codigo3.png)
 
 
-![Evidencia 1](evidencias/sample.webp)
-
-
+</div>
 
 # Certificados
 
+- AWS Partner: Sales Accreditation (Business) (certificados/13660_3_5266074_1712335956_AWS Course Completion Certificate.pdf)
 
-- Certificado do Curso ABC
-![Curso ABC](certificados/sample.png)
+</div>
+
+# Exercicios
 
 
+- Exportar o resultado da query que obtém os 10 livros mais caros para um arquivo CSV. Utilize o caractere: (Ponto e virgula) como separador. Lembre-se que o conteúdo do seu arquivo deverá respeitar a sequência de colunas e seus respectivos nomes de cabeçalhos que listamos abaixo:
+Cod Livro
+Titulo
+CodAutor
+NomeAutor
+Valor
+CodEditora
+NomeEditora
+Observação: O Arquivo exportado. conforme as especificações acima. deve ser disponibilizados no GitHub. (exercicios/Ex1.csv).
+
+-Exportar o resultado da query que obtém as 5 editoras com maior quantidade de livros na biblioteca para um arquivo CSV. Utilizar o caractere | (pipe) como separador. Lembre-se que o conteúdo do seu arquivo deverá respeitar a sequência de colunas e seus respectivos nomes de cabeçalho que listamos abaixo:
+CodEditora
+NomeEditora
+QuatidadedeLivros
