@@ -1,6 +1,6 @@
  ##  SOBRE
 
-Olá, sou Rafael Kabata, mas meus amigos me chamam de Rafa ou Kabata. Tenho 31 anos e sou natural de Sete Barras, uma cidade do interior de São Paulo. Sete Barras faz divisa com Registro/SP, a maior cidade da região conhecida como Vale do Ribeira, onde nasci.
+Olá, sou Rafael Kabata, mas meus amigos me chamam de Rafa ou Kabata. Tenho 31 anos e sou morador de Sete Barras, uma cidade do interior de São Paulo. Sete Barras faz divisa com Registro/SP, a maior cidade da região conhecida como Vale do Ribeira, onde nasci.
 
 Atualmente, estou cursando Desenvolvimento de Software Multiplataforma na Fatec de Registro, encontrando-me no 4º semestre de um total de 6 semestres do curso. Anteriormente, me formei em Engenharia Agronômica e trabalhei nessa área por alguns anos. No entanto, minha paixão e interesse em tecnologia me levaram a mudar de carreira.
 
