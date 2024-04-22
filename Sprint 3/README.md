@@ -26,7 +26,7 @@ Na pasta evidências podemos observar algumas imagens
 # Exercicios
 
 
-- [Exercícios propostos pela plataforma Udemy]([Exercicios_Udemy.ipynb)(https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%203/exercicios/Exercicios_Udemy.ipynb))
+- [Exercícios propostos pela plataforma Udemy](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%203/exercicios/Exercicios_Udemy.ipynb)
 
 - [Exercício actors](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%203/exercicios/exercicio_actors.py) - Objetiva da Sprint 3 é a nivelamento de conhecimento entre todos os belsistas des conteúdos envolvidos na sprint.
 
