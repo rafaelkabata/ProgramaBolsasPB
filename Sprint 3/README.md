@@ -32,41 +32,46 @@ Na pasta evidências podemos observar algumas imagens
 
 2. Conteúdos
 
-Nesta Sprint abordaremos Linguagem Python do básico go intermediário, pastando pelos porodigmas de programação estruturado e funcional
+Nesta Sprint, abordaremos a linguagem Python do básico ao intermediário, passando pelos paradigmas de programação estruturada e funcional.
 
 3. Atividades
 
-Neste resno você irá aplicar alguns fundamentos de FTL (Extract-Transform-cad) unlizando como recurso a Inguagem Python, A entrada será o arquivo actors.csv.
+Nesta etapa, você irá aplicar alguns fundamentos de ETL (Extract-Transform-Load) utilizando como recurso a linguagem Python. A entrada será o arquivo actors.csv.
 
-Armozere o arquivo actors.csv (disaenivel para download no recursos em um diretório local de seu computador. Após, cre 5 ravos arquivos com extensão txt, todos vazios. Você pode romed las de etapa 1txt. : Importante:
+Armazene o arquivo actors.csv (disponível para download nos recursos) em um diretório local do seu computador. Após, crie 5 arquivos com extensão .txt, todos vazios. Você pode nomeá-los de etapa1.txt, etapa2.txt, etc.
 
-Para desenvolvimento deste exercício, não utilize biblictecas coma Pandas, Polars, NumPy, CSV e/ou outras bibliotecas e engines que abstraom o processamento de dados.
+Importante:
 
-Todas as transformações que julgarem necessárias devem ser feitas por meio dos scripts Python. Nenhuma modificação deve ser feita no arquiva actors.csv.
+Para o desenvolvimento deste exercício, não utilize bibliotecas como Pandas, Polars, NumPy, CSV e/ou outras bibliotecas e engines que abstraem o processamento de dados.
 
-Para leitura do arquivo actors.csv, não utilize o módulo csv nativo do Python.
+Todas as transformações que julgarem necessárias devem ser feitas por meio dos scripts Python. Nenhuma modificação deve ser feita no arquivo actors.csv.
+
+Para a leitura do arquivo actors.csv, não utilize o módulo csv nativo do Python.
 
 Dicionário de Dados
 
-Abaixo regue a defrição das colunas contidas no arquivo actors.cSV
+Abaixo segue a definição das colunas contidas no arquivo actors.csv:
 
-Actor. Nome da ator. Total Gross: Receita bruta de bilheteria doméstica, em milhões de dólares, de todos os filmes do ator. Number of movies: Número de filmes em que o ator participou Average per Movie: Corresponde à bilheteria bruto dividida pelo número de filmes…
-
- Etapa 2
+Actor: Nome do ator.
+Total Gross: Receita bruta de bilheteria doméstica, em milhões de dólares, de todos os filmes do ator.
+Number of movies: Número de filmes em que o ator participou.
+Average per Movie: Corresponde à bilheteria bruta dividida pelo número de filmes.
+3.2. Etapa 2
 
 Apresente a média de receita de bilheteria bruta dos principais filmes, considerando todos os atores. Estamos falando aqui da média da coluna Gross.
 
 3.3. Etapa 3
 
-Apresente a atoratriz com a maior média de receita de bilheteria bruta por filme do conjunto de dodos. Considere a coluna Average per Movie pora fins de căicula
+Apresente o ator/atriz com a maior média de receita de bilheteria bruta por filme do conjunto de dados. Considere a coluna Average per Movie para fins de cálculo.
 
 3.4. Etapa 4
 
-A coluna #1 Movie contém o filme de maior bilheteria em que o ator atuou. Realize a contagem de aparições destes filmes no dataset, listardo-os ordenados pela quantidade de vezes em que estão presentes. Considere o ordem decrescente e, em segundo nível, o nome do filme.
+A coluna #1 Movie contém o filme de maior bilheteria em que o ator atuou. Realize a contagem de aparições destes filmes no dataset, listando-os ordenados pela quantidade de vezes em que estão presentes. Considere a ordem decrescente e, em segundo nível, o nome do filme.
 
-Ao escrever no arquivo, considere o padrão de saída (sequencia) O filme (nome filme) oparece (quantidade) vez(es) no dataset, adicionando um resultado a cada linha.
+Ao escrever no arquivo, considere o padrão de saída: "O filme (nome filme) aparece (quantidade) vez(es) no dataset", adicionando um resultado a cada linha.
+
 Apresente a lista dos atores ordenada pela receita bruta de bilheteria de seus filmes (coluna Total Gross), em ordem decrescente.
 
-Ao escrever no arquivo, considere a padrão de saida (nome do ator) (receita total bruto), adicionando um resultado a cada linha. 
+Ao escrever no arquivo, considere o padrão de saída: "(nome do ator) (receita total bruta)", adicionando um resultado a cada linha.
 
 
