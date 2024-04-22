@@ -9,9 +9,9 @@ O objetivo da sprint 3 é o nivelamento de conhecimento entre todos os bolsistas
 Na pasta evidências podemos observar algumas imagens
 
 - [Gráfico de Barras do desafio]([evidencias/Grafico_Barras.png](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%203/evidencias/Grafico_Barras.png))
-- Gráfico de Pizza do desafio (evidencias/Grafico_Pizza.png)
-- Gráfico de linhas do desafio (evidencias/Grafico_Linhas.png)
-- Gráfico de Dispersão (evidencias/Grafico_Dispersao.png)
+- [Gráfico de Pizza do desafio](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%203/evidencias/Grafico_Pizza.png)
+- [Gráfico de linhas do desafio]([evidencias/Grafico_Linhas.png](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%203/evidencias/Grafico_Linhas.png))
+- [Gráfico de Dispersão](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%203/evidencias/Grafico_Dispersao.png)
 
 
 
@@ -19,16 +19,16 @@ Na pasta evidências podemos observar algumas imagens
 
 # Certificados
 
-- Parceiros da AWS: Aspectos econômicos da nuvem (Rafael_Kabata_AWS Course Completion Certificate.pdf)
+- [Parceiros da AWS: Aspectos econômicos da nuvem]([Rafael_Kabata_AWS Course Completion Certificate.pdf](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%203/certificados/Rafael_Kabata_AWS%20Course%20Completion%20Certificate.pdf)
 
 </div>
 
 # Exercicios
 
 
-- Exercícios propostos pela plataforma Udemy (Exercicios_Udemy.ipynb)
+- [Exercícios propostos pela plataforma Udemy]([Exercicios_Udemy.ipynb](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%203/exercicios/Exercicios_Udemy.ipynb))
 
-- Exercício actors - Objetiva da Sprint 3 é a nivelamento de conhecimento entre todos os belsistas des conteúdos envolvidos na sprint.
+- [Exercício actors](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%203/exercicios/exercicio_actors.py) - Objetiva da Sprint 3 é a nivelamento de conhecimento entre todos os belsistas des conteúdos envolvidos na sprint.
 
 2. Conteúdos
 
@@ -67,6 +67,6 @@ A coluna #1 Movie contém o filme de maior bilheteria em que o ator atuou. Reali
 Ao escrever no arquivo, considere o padrão de saída (sequencia) O filme (nome filme) oparece (quantidade) vez(es) no dataset, adicionando um resultado a cada linha.
 Apresente a lista dos atores ordenada pela receita bruta de bilheteria de seus filmes (coluna Total Gross), em ordem decrescente.
 
-Ao escrever no arquivo, considere a padrão de saida (nome do ator) (receita total bruto), adicionando um resultado a cada linha. (exercicio_actors.py)
+Ao escrever no arquivo, considere a padrão de saida (nome do ator) (receita total bruto), adicionando um resultado a cada linha. 
 
 
