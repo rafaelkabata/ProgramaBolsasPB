@@ -28,7 +28,7 @@ Na pasta evidências podemos observar algumas imagens
 
 - Exercícios propostos pela plataforma Udemy (Exercicios_Udemy.ipynb)
 
-- Exercício - Objetiva da Sprint 3 é a nivelamento de conhecimento entre todos os belsistas des conteúdos envolvidos na sprint.
+- Exercício actors - Objetiva da Sprint 3 é a nivelamento de conhecimento entre todos os belsistas des conteúdos envolvidos na sprint.
 
 2. Conteúdos
 
