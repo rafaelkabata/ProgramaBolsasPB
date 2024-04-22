@@ -1,5 +1,5 @@
 # Desafio
-
+[Desafio da Sprint 03](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%203/Desafio/etapa-1/DesafioSprint03.ipynb)
 O objetivo da sprint 3 é o nivelamento de conhecimento entre todos os bolsistas dos conteúdos envolvidos na sprint, principalmente Python, Pandas e Matplotlib
 
 </div>
