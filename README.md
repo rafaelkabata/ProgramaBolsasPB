@@ -14,9 +14,9 @@ Nos meus momentos de lazer, gosto de ler, jogar no meu PlayStation 5, apreciar b
  
 ## Sprints
 
-- Sprint 1. Tivemos oportunidade de aprender sobre Linux, criação de aplicação .sh, comandos básicos ao avançado. Vimos também Git, como criar repositório, enviar arquivos para o Github e tudo que o envolva. O desafio da sprint 1 consistia na criação de uma automação para uma tabela .csv para que ele gerasse um relatório diário com informações relevantes de forma automática.
-- Sprint 2. Tivemos a oportunidade de estar aprendendo um pouco mais sobre modelagem de banco de dados Relacional e Dimensional, assim como linguagem SQL.
-- Sprint 3. Tivemos a oportunidade de estar aprofundando nossos conhecimentos em Python, assim como nas bibliotecas Pandas e Matplotlib para conclusão do desafio.
+- [Sprint 1.](https://github.com/rafaelkabata/ProgramaBolsasPB/tree/main/Sprint%201) Tivemos oportunidade de aprender sobre Linux, criação de aplicação .sh, comandos básicos ao avançado. Vimos também Git, como criar repositório, enviar arquivos para o Github e tudo que o envolva. O desafio da sprint 1 consistia na criação de uma automação para uma tabela .csv para que ele gerasse um relatório diário com informações relevantes de forma automática.
+- [Sprint 2.](https://github.com/rafaelkabata/ProgramaBolsasPB/tree/main/Sprint%202) Tivemos a oportunidade de estar aprendendo um pouco mais sobre modelagem de banco de dados Relacional e Dimensional, assim como linguagem SQL.
+- [Sprint 3.](https://github.com/rafaelkabata/ProgramaBolsasPB/tree/main/Sprint%203) Tivemos a oportunidade de estar aprofundando nossos conhecimentos em Python, assim como nas bibliotecas Pandas e Matplotlib para conclusão do desafio.
 </div>
 
 
