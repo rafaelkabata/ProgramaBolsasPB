@@ -8,18 +8,18 @@ O objetivo foi a prática do conhecimento de modelagem de banco de dados relacio
 
 Na pasta evidências podemos observar algumas imagens
 
-- Diagrama do banco de dados Relacional (evidencias/Diagrama_BDRelacional.png)
-- Diagrama Dimensional (evidencias/Diagrama_dimensional.png)
-- Código SQL da modelagem do banco de dados relacional (evidencias/codigo.png)
-- Código SQL da modelagem do banco de dados relacional (evidencias/codigo2.png)
-- Código SQL da modelagem do banco de dados relacional (evidencias/codigo3.png)
+- [Diagrama do banco de dados Relacional](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%202/evidencias/Diagrama_BDRelacional.png)
+- [Diagrama Dimensional](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%202/evidencias/Diagrama_dimensional.png)
+- [Código SQL da modelagem do banco de dados relacional](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%202/evidencias/codigo.png)
+- [Código SQL da modelagem do banco de dados relacional] (https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%202/evidencias/codigo2.png)
+- [Código SQL da modelagem do banco de dados relacional] (https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%202/evidencias/codigo3.png)
 
 
 </div>
 
 # Certificados
 
-- AWS Partner: Sales Accreditation (Business) (certificados/13660_3_5266074_1712335956_AWS Course Completion Certificate.pdf)
+- [AWS Partner: Sales Accreditation (Business)](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%202/certificados/13660_3_5266074_1712335956_AWS%20Course%20Completion%20Certificate.pdf)
 
 </div>
 
