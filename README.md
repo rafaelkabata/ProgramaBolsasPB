@@ -1,14 +1,44 @@
  ##  SOBRE
 
-Olá, sou Rafael Kabata, mas meus amigos me chamam de Rafa ou Kabata. Tenho 31 anos e sou morador de Sete Barras, uma cidade do interior de São Paulo. Sete Barras faz divisa com Registro/SP, a maior cidade da região conhecida como Vale do Ribeira, onde nasci.
+Olá,
 
-Atualmente, estou cursando Desenvolvimento de Software Multiplataforma na Fatec de Registro, encontrando-me no 4º semestre de um total de 6 semestres do curso. Anteriormente, me formei em Engenharia Agronômica e trabalhei nessa área por alguns anos. No entanto, minha paixão e interesse em tecnologia me levaram a mudar de carreira.
+Meu nome é Rafael Kabata, tenho 31 anos e sou da cidade de Sete Barras/SP, localizada na região do Vale do Ribeira, no estado de São Paulo. Estou estudando Desenvolvimento de Software Multiplataforma na FATEC, atualmente cursando o 4º período da graduação. Se tudo der certo, me formo em julho de 2025 :) . Na Fatec, tive contato com bastante tecnologia, como HTML, CSS, JavaScript, SQL, Python, Java, PHP e Node.js.
 
-Durante minha formação em Engenharia Agronômica, tive contato significativo com estatística através de iniciações científicas e projetos de pesquisa, o que despertou meu interesse pela área de dados.
+Também gostaria de destacar que sou Engenheiro formado pela Universidade Estadual Paulista (UNESP). Trabalhei algum tempo na área, mas sempre gostei muito de tecnologia, o que me motivou a começar a estudar DSM em 2022. Na UNESP, tive a oportunidade de participar de iniciação científica, assim como ser professor voluntário da disciplina de matemática em um cursinho popular voltado para pessoas de baixa renda.
 
-Estou entusiasmado por participar do programa de bolsas da Compass.Uol, uma oportunidade que venho buscando há algum tempo para desenvolver e aprimorar minhas habilidades. Espero contribuir ao máximo e aprender com os profissionais com os quais vou interagir.
+Sempre gostei da área de dados, principalmente pelo contato que tive com dados em iniciação científica, analisando resultados, assim como nas aulas de estatística. O Programa de Bolsas de Estágio em Engenharia de Dados é minha primeira oportunidade no mercado de trabalho na área de tecnologia, e estou realmente muito motivado para mostrar o meu potencial e, quem sabe, ganhar uma oportunidade de fazer parte da Compass.UOL. Seria realmente sensacional.
 
-Nos meus momentos de lazer, gosto de ler, jogar no meu PlayStation 5, apreciar boa comida ao lado da minha noiva e degustar um bom vinho. Tenho me dedicado ao aprendizado do inglês através de um curso intensivo, visando alcançar fluência até o final de 2025.
+Além do estágio, também tenho me dedicado ao aprendizado do inglês, onde tenho cursado de forma intensiva para, até o final de 2025, ter fluência avançada no idioma.
+
+Nas minhas horas vagas, gosto de assistir séries, jogar FIFA no PS5 e ler um bom livro (Confesso que sou fã de Tolkien). Porém, nos últimos meses, tenho me dedicado à leitura de livros que envolvam ensinamentos técnicos que eu possa utilizar na carreira de dados, como "Storytelling com Dados" de Nussbaumer, "Como Mentir com Estatística" de Huff e "Python para Análise de Dados" da O'Reilly. Minha noiva e eu também somos bons apreciadores de vinho e de uma boa comida, coisas que gostamos muito de fazer juntos.
+
+Uma curiosidade sobre minha vida: morei no Japão por 7 anos quando era criança, dos meus 7 aos 13 anos de idade. Compreendo o idioma um pouco, mas como estudei em colégio brasileiro lá, não aprendi tanto o idioma.
+
+ <hr>
+
+<div align="left">
+  
+  <a href="https://www.linkedin.com/in/rafaelkabata/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="kabatarafael@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="30" alt="gmail logo"  />
+ </a>
+  <a href="https://www.instagram.com/rafaelkabata/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="30" alt="instagram logo"  />
+  </a>
+</div>
+
+<hr>
+<div align="center">
+  <a href="https://github.com/rafaelkabata">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafaelkabata&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelkabata&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+<hr>
+<div align="center">  
+
+ 
 
 </div>
  
