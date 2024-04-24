@@ -2,7 +2,7 @@
 
 Olá,
 
-Meu nome é Rafael Kabata, tenho 31 anos e sou da cidade de Sete Barras/SP, localizada na região do Vale do Ribeira, no estado de São Paulo. Estou estudando Desenvolvimento de Software Multiplataforma na FATEC, atualmente cursando o 4º período da graduação. Se tudo der certo, me formo em julho de 2025 :) . Na Fatec, tive contato com bastante tecnologia, como HTML, CSS, JavaScript, SQL, Python, Java, PHP e Node.js.
+Meu nome é Rafael Kabata, tenho 31 anos e sou da cidade de Sete Barras/SP, localizada na região do Vale do Ribeira, no estado de São Paulo. Estou estudando Desenvolvimento de Software Multiplataforma na FATEC, atualmente cursando o 4º período da graduação. Se tudo der certo, me formo em julho de 2025 :) . Na Fatec, tive contato com bastantes tecnologias, como HTML, CSS, JavaScript, SQL, NoSQL, Python, Java, PHP e Node.js.
 
 Também gostaria de destacar que sou Engenheiro formado pela Universidade Estadual Paulista (UNESP). Trabalhei algum tempo na área, mas sempre gostei muito de tecnologia, o que me motivou a começar a estudar DSM em 2022. Na UNESP, tive a oportunidade de participar de iniciação científica, assim como ser professor voluntário da disciplina de matemática em um cursinho popular voltado para pessoas de baixa renda.
 
