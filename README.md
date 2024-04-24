@@ -1,4 +1,4 @@
- ##  SOBRE
+ #  SOBRE
 
 Olá,
 
@@ -32,7 +32,7 @@ Uma curiosidade sobre minha vida: morei no Japão por 7 anos quando era criança
 
 </div>
  
-## Sprints
+# SPRINT
 
 - [Sprint 1.](https://github.com/rafaelkabata/ProgramaBolsasPB/tree/main/Sprint%201) Tivemos oportunidade de aprender sobre Linux, criação de aplicação .sh, comandos básicos ao avançado. Vimos também Git, como criar repositório, enviar arquivos para o Github e tudo que o envolva. O desafio da sprint 1 consistia na criação de uma automação para uma tabela .csv para que ele gerasse um relatório diário com informações relevantes de forma automática.
 - [Sprint 2.](https://github.com/rafaelkabata/ProgramaBolsasPB/tree/main/Sprint%202) Tivemos a oportunidade de estar aprendendo um pouco mais sobre modelagem de banco de dados Relacional e Dimensional, assim como linguagem SQL.
