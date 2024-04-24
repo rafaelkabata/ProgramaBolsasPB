@@ -12,7 +12,7 @@ Além do estágio, também tenho me dedicado ao aprendizado do inglês, onde ten
 
 Nas minhas horas vagas, gosto de assistir séries, jogar FIFA no PS5 e ler um bom livro (Confesso que sou fã de Tolkien). Porém, nos últimos meses, tenho me dedicado à leitura de livros que envolvam ensinamentos técnicos que eu possa utilizar na carreira de dados, como "Storytelling com Dados" de Nussbaumer, "Como Mentir com Estatística" de Huff e "Python para Análise de Dados" da O'Reilly. Minha noiva e eu também somos bons apreciadores de vinho e de uma boa comida, coisas que gostamos muito de fazer juntos.
 
-Uma curiosidade sobre minha vida: morei no Japão por 7 anos quando era criança, dos meus 7 aos 13 anos de idade. Compreendo o idioma um pouco, mas como estudei em colégio brasileiro lá, não aprendi tanto o idioma.
+Uma curiosidade sobre minha vida: morei no Japão por 7 anos quando era criança, dos meus 5 aos 12 anos de idade. Compreendo o idioma um pouco, mas como estudei em colégio brasileiro lá, não aprendi tanto o idioma.
 
  <hr>
 
