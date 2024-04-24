@@ -27,18 +27,8 @@ Uma curiosidade sobre minha vida: morei no Japão por 7 anos quando era criança
   <a href="https://www.instagram.com/rafaelkabata/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="30" alt="instagram logo"  />
   </a>
-</div>
+</div> 
 
-<hr>
-<div align="center">
-  <a href="https://github.com/rafaelkabata">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafaelkabata&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelkabata&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-<hr>
-<div align="center">  
-
- 
 
 </div>
  
