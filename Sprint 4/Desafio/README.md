@@ -1,3 +1,5 @@
+## Etapa 1
+
 [Etapa 1](https://github.com/rafaelkabata/ProgramaBolsasPB/tree/main/Sprint%204/Desafio/etapa-1)
 Construa uma imagem a partir de um arquivo de instrução dockerfile que execute o codigo carguru.py. Após, execute um conteiner a partir desta imagem
 
@@ -10,6 +12,7 @@ Sim, é possível reutilizar os contêineres que estão parados no Docker. Você
 
 </div>
 
+## Etapa 3
 [Etapa 3](https://github.com/rafaelkabata/ProgramaBolsasPB/tree/main/Sprint%204/Desafio/etapa-3) - Agora vamos exercitar a criação de um container que permita receber inputs durante a execução. Abaixo seguem as instruções:
 -receber uma String via Input
 - Gerar o hash da String por meio do Algoritmo SHA-1
