@@ -15,3 +15,5 @@ O objetivo da sprint 4 é a prática de Python com Containers Docker combinando 
 </div>
 
 # Certificados
+
+[Certificado AWS Partner: Accreditation (Technical)] (https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%204/certificados/Rafael_Kabata%2013246_3_5266074_1714763432_AWS%20Course%20Completion%20Certificate.pdf)
