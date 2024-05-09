@@ -9,7 +9,7 @@ docker build -t conteiner_carguru
 ```
 Para executar o conteiner
 ```bash
-docker run
+docker run conteiner_carguru
 ```
 
 </div>
