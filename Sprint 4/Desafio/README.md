@@ -19,6 +19,16 @@ docker run conteiner_carguru
 
 Sim, é possível reutilizar os contêineres que estão parados no Docker. Você pode usar o comando docker start <nome_ou_id_do_container> para iniciar um conteiner específico que está parado. Se precisar iniciar vários conteineres ao mesmo tempo, você pode listar os nomes ou IDs deles separados por espaço no mesmo comando. Isso permite reiniciar os conteineres de forma rápida, mantendo todas as configurações que foram definidas anteriormente.
 
+com o comando 
+```bash
+docker ps -a
+```
+podemos observar todos os conteineres, incluindo os parados, e utilizando o comando
+
+```bash
+docker start nome_do_contêiner
+```
+podemos reutilizar o conteiner
 </div>
 
 ## Etapa 3
