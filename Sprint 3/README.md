@@ -9,11 +9,14 @@ O objetivo da sprint 3 é o nivelamento de conhecimento entre todos os bolsistas
 Na pasta evidências podemos observar algumas imagens
 
 - [Gráfico de Barras do desafio](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%203/evidencias/Grafico_Barras.png)
+  ![Diagrama](./evidencias/Grafico_Barras.png)
 - [Gráfico de Pizza do desafio](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%203/evidencias/Grafico_Pizza.png)
 ![Diagrama](./evidencias/Grafico_Pizza.png)
 
 - [Gráfico de linhas do desafio]([evidencias/Grafico_Linhas.png](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%203/evidencias/Grafico_Linhas.png))
+  ![Diagrama](./evidencias/Grafico_Linhas.png)
 - [Gráfico de Dispersão](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%203/evidencias/Grafico_Dispersao.png)
+  ![Diagrama](./evidencias/Grafico_Dispersao.png)
 
 
 
