@@ -22,7 +22,7 @@ Aqui podemos observar o conteiner rodando. Utilizei a flag -it para que o termin
 
 Construção da imagem para gerar o conteiner conteiner-carguru. A flag -t para dar um nome a imagem. <br/>
 
-[Criação do conteiner carguru](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%204/evidencias/Criacao-conteiner-carguru.png) <br/>
+[Criação do conteiner carguru](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%204/evidencias/Criacao-conteiner-carguru.png) <br/> <br/>
 ![Diagrama](./evidencias/Criacao-conteiner-carguru.png)
 
 <br/>
@@ -34,7 +34,7 @@ Execução do conteiner. <br/>
 <br/>
 <br/>
 
-Aqui é como podemos reaproveitar um conteiner, descrito com mais detalhes em [desafio](https://github.com/rafaelkabata/ProgramaBolsasPB/tree/main/Sprint%204/Desafio)
+Aqui é como podemos reaproveitar um conteiner, descrito com mais detalhes em [desafio](https://github.com/rafaelkabata/ProgramaBolsasPB/tree/main/Sprint%204/Desafio).
 <br/>
 [Reaproveitamento de conteiner](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%204/evidencias/reaproveitar-conteiner.png) <br/>
 ![Diagrama](./evidencias/reaproveitar-conteiner.png)
