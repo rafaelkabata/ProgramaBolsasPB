@@ -35,6 +35,7 @@ Execução do conteiner. <br/>
 <br/>
 
 Aqui é como podemos reaproveitar um conteiner, descrito com mais detalhes em [desafio](https://github.com/rafaelkabata/ProgramaBolsasPB/tree/main/Sprint%204/Desafio)
+<br/>
 [Reaproveitamento de conteiner](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%204/evidencias/reaproveitar-conteiner.png) <br/>
 ![Diagrama](./evidencias/reaproveitar-conteiner.png)
 
