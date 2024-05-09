@@ -12,7 +12,7 @@ Para executar o conteiner
 docker run conteiner_carguru
 ```
 <br/>
-[Reaproveitando Conteiner](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%204/evidencias/reaproveitar-conteiner.png)
+[Reaproveitando conteiner](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%204/evidencias/reaproveitar-conteiner.png)
 
 ![Diagrama](./evidencias/reaproveitar-conteiner.png)
 <br/>
