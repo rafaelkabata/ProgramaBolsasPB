@@ -27,7 +27,8 @@ Construção da imagem para gerar o conteiner conteiner-carguru. A flag -t para 
 
 <br/>
 <br/>
-Execução do conteiner.<br/>
+Execução do conteiner. <br/>
+
 [execução da aplicação Carguru.py por conteiner](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%204/evidencias/carguru_executado.png)<br/>
 ![Diagrama](./evidencias/carguru_executado.png)
 <br/>
