@@ -47,7 +47,7 @@ docker build -t calculator_hash
 ```
 Para executar o container criado 
 ```bash
-docker build -it calculator_hash
+docker build -it hash_calculator
 ```
 
 a flag -it serve para que o terminal vire interativo e o usuário consiga digitar no terminal
