@@ -13,8 +13,8 @@ Na pasta evidências podemos observar algumas imagens
   
 - [Diagrama Dimensional](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%202/evidencias/Diagrama_dimensional.png)
 - ![Diagrama](./evidencias/Diagrama_dimensional.png)
- - [Codigo SQL da modelagem de banco de dados relacional](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%202/evidencias/codigo1.png)
- - ![Diagrama](./evidencias/codigo1.png)
+ - [Codigo SQL da modelagem de banco de dados relacional](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%202/evidencias/codigo.png)
+ - ![Diagrama](./evidencias/codigo.png)
 
 - [Codigo SQL da modelagem de banco de dados relacional](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%202/evidencias/codigo2.png)
 - ![Diagrama](./evidencias/codigo2.png)
