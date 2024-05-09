@@ -12,7 +12,7 @@ O objetivo da sprint 4 é a prática de Python com Containers Docker combinando 
 <br/>
 <br/>
 
-[execução da aplicação Carguru.py por conteiner]<br/>(https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%204/evidencias/carguru_executado.png)
+[execução da aplicação Carguru.py por conteiner](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%204/evidencias/carguru_executado.png)<br/>
 ![Diagrama](./evidencias/carguru_executado.png)
 <br/>
 <br/>
