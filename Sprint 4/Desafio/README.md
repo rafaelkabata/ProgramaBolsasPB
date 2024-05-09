@@ -11,7 +11,9 @@ Para executar o conteiner
 ```bash
 docker run conteiner_carguru
 ```
+<br/>
 [Reaproveitando Conteiner](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%204/evidencias/reaproveitar-conteiner.png)
+
 ![Diagrama](./evidencias/reaproveitar-conteiner.png)
 </div>
 
