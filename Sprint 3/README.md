@@ -53,7 +53,7 @@ No gráfico de barras, podemos observar os top 5 aplicativos por número de inst
 
 - [Exercícios propostos pela plataforma Udemy](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%203/exercicios/Exercicios_Udemy.ipynb)
 
-- [Exercício actors](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%203/exercicios/exercicio_actors.py) - Objetiva da Sprint 3 é a nivelamento de conhecimento entre todos os belsistas des conteúdos envolvidos na sprint.
+- [Exercício actors](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%203/exercicios/exercicio_actors.py) - Objetiva da Sprint 3 é a nivelamento de conhecimento entre todos os bolsistas dos conteúdos envolvidos na sprint.
 
 2. Conteúdos
 
