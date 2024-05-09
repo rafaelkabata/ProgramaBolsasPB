@@ -11,10 +11,15 @@ Na pasta evidências podemos observar algumas imagens
 No gráfico de barras, podemos observar os top 5 aplicativos por número de instalações 
 - [Gráfico de Barras do desafio](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%203/evidencias/Grafico_Barras.png)
   ![Diagrama](./evidencias/Grafico_Barras.png)
+  
+
+
 
   No gráfico de pizza, devia a quantidade de categoria, listei apenas as categorias que estavam com mais de 2,6%. Categoria abaixo deste falou eu listei como "Outros" para que o gráfico ficasse mais agradável e bonito na visualização
 - [Gráfico de Pizza do desafio](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%203/evidencias/Grafico_Pizza.png)
 ![Diagrama](./evidencias/Grafico_Pizza.png)
+
+
 
 
   No gráfico de linhas podemos observar a Quantidade de atualização por data de atualização. Observamos que quanto mais recente o ano, mais atualizações as aplicações recebem. Isto se deve ao fato da modificação e atualização das técnologias, onde estes aplicativos devem acompanhar estas mudanças.
