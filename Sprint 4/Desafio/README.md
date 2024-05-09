@@ -14,7 +14,7 @@ docker run conteiner_carguru
 [Reaproveitando conteiner](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%204/evidencias/reaproveitar-conteiner.png)
 <br/>
 
-![Diagrama](/Sprint 4/evidencias/reaproveitar-conteiner.png)
+![Diagrama](./evidencias/reaproveitar-conteiner.png)
 
 ## Etapa 2 
 É possivel reutilizar um conteiner ? Em caso positivo, apresente o comando necessário para iniciar um ou mais containers parados em seu ambiente Docker. Não sendo possível reutilizar justifique sua resposta
