@@ -12,9 +12,9 @@ No gráfico de barras, podemos observar os top 5 aplicativos por número de inst
 - [Gráfico de Barras do desafio](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%203/evidencias/Grafico_Barras.png)
   ![Diagrama](./evidencias/Grafico_Barras.png)
   
-
-
-
+//
+//
+//
   No gráfico de pizza, devia a quantidade de categoria, listei apenas as categorias que estavam com mais de 2,6%. Categoria abaixo deste falou eu listei como "Outros" para que o gráfico ficasse mais agradável e bonito na visualização
 - [Gráfico de Pizza do desafio](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%203/evidencias/Grafico_Pizza.png)
 ![Diagrama](./evidencias/Grafico_Pizza.png)
