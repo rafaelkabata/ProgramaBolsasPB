@@ -3,6 +3,15 @@
 [Etapa 1](https://github.com/rafaelkabata/ProgramaBolsasPB/tree/main/Sprint%204/Desafio/etapa-1)
 Construa uma imagem a partir de um arquivo de instrução dockerfile que execute o codigo carguru.py. Após, execute um conteiner a partir desta imagem
 
+para construir o conteiner a partir da imagem criada :
+```bash
+docker build -t conteiner_carguru
+```
+Para executar o conteiner
+```bash
+docker run
+```
+
 </div>
 
 ## Etapa 2 
