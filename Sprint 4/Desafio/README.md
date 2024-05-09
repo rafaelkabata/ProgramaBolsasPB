@@ -43,11 +43,13 @@ Registrar o conteudo do script Python, arquivo Dockerfile e comando de inicializ
 
 Para construir o container através da imagem criada utilizamos o seguinte comando:
 ```bash
-docker build -t calculator_hash
+docker build -t calculator_hash  -f MascararDados .
+
 ```
 Para executar o container criado 
 ```bash
-docker build -it hash_calculator
+docker run -it hash_calculator MascararDados .
+
 ```
 
 a flag -it serve para que o terminal vire interativo e o usuário consiga digitar no terminal
