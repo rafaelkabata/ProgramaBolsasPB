@@ -14,9 +14,9 @@ Na pasta evidências podemos observar algumas imagens
 
  - [Codigo SQL da modelagem de banco de dados relacional](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%202/evidencias/codigo2.png)
 
-- [Código SQL da modelagem do banco de dados relacional] (https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%202/evidencias/codigo2.png)
+- [Codigo SQL da modelagem de banco de dados relacional](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%202/evidencias/codigo2.png)
 
-- [Código SQL da modelagem do banco de dados relacional] (https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%202/evidencias/codigo3.png)
+- [Codigo SQL da modelagem de banco de dados relacional](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%202/evidencias/codigo3.png)
 
 
 </div>
