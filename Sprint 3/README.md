@@ -8,14 +8,21 @@ O objetivo da sprint 3 é o nivelamento de conhecimento entre todos os bolsistas
 
 Na pasta evidências podemos observar algumas imagens
 
+No gráfico de barras, podemos observar os top 5 aplicativos por número de instalações 
 - [Gráfico de Barras do desafio](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%203/evidencias/Grafico_Barras.png)
   ![Diagrama](./evidencias/Grafico_Barras.png)
+
+  No gráfico de pizza, devia a quantidade de categoria, listei apenas as categorias que estavam com mais de 2,6%. Categoria abaixo deste falou eu listei como "Outros" para que o gráfico ficasse mais agradável e bonito na visualização
 - [Gráfico de Pizza do desafio](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%203/evidencias/Grafico_Pizza.png)
 ![Diagrama](./evidencias/Grafico_Pizza.png)
 
+
+  No gráfico de linhas podemos observar a Quantidade de atualização por data de atualização. Observamos que quanto mais recente o ano, mais atualizações as aplicações recebem. Isto se deve ao fato da modificação e atualização das técnologias, onde estes aplicativos devem acompanhar estas mudanças.
 - [Gráfico de linhas do desafio]([evidencias/Grafico_Linhas.png](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%203/evidencias/Grafico_Linhas.png))
   ![Diagrama](./evidencias/Grafico_Linhas.png)
+
   
+  Para finalizar podemos observar o gráfico de dispersão de média de instalações por gênero (top 50). Observando detalhadamente, vemos que a maioria dos gêneros se encontram em até 20 milhões de instalações em média. Apenas 7 categorias ficam entre 20 a 40 milhões de instalações, 6 categorias entre 40 a 60 milhões e disparado como a categoria com maior numero médio de instalações por gênero se encontra a categoria de comunicação
 - [Gráfico de Dispersão](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%203/evidencias/Grafico_Dispersao.png)
 - ![Diagrama](./evidencias/Grafico_Dispersao.png)
 
