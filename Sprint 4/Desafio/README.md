@@ -31,4 +31,15 @@ Criar uma imagem Docker chamada mascarar-dados que execute o scritp Python anter
 Iniciar o container a partir da imagem, enviando algumas palavras para mascaramento
 Registrar o conteudo do script Python, arquivo Dockerfile e comando de inicialização neste espaco
 
+Para construir o container através da imagem criada utilizamos o seguinte comando:
+```bash
+docker build -t calculator_hash
+```
+Para executar o container criado 
+```bash
+docker build -it calculator_hash
+```
+
+a flag -it serve para que o terminal vire interativo e o usuário consiga digitar no terminal
+
 </div>
