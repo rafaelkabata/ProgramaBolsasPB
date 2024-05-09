@@ -13,7 +13,7 @@ docker run conteiner_carguru
 ```
 [Reaproveitando conteiner](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%204/evidencias/reaproveitar-conteiner.png)
 <br/>
-![Diagrama](./Desafio/etapa-3/reaproveitar-conteiner.png)
+![Diagrama](./etapa-3/reaproveitar-conteiner.png)
 <br/>
 
 
