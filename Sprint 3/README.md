@@ -15,7 +15,7 @@ No gráfico de barras, podemos observar os top 5 aplicativos por número de inst
  <br/>
  <br/> 
 
-  No gráfico de pizza, devia a quantidade de categoria, listei apenas as categorias que estavam com mais de 2,6%. Categoria abaixo deste falou eu listei como "Outros" para que o gráfico ficasse mais agradável e bonito na visualização
+  No gráfico de pizza, devia a quantidade de categoria, listei apenas as categorias que estavam com mais de 2,6%. Categoria abaixo deste falou eu listei como "Outros" para que o gráfico ficasse mais agradável e bonito na visualização. Observamos que a categoria "Outros" representa em torno de 20%, ou seja, a representação das categorias esta por volta de 80% descritas no gráfico
 - [Gráfico de Pizza do desafio](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%203/evidencias/Grafico_Pizza.png)
 ![Diagrama](./evidencias/Grafico_Pizza.png)
 
