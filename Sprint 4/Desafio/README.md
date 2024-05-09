@@ -11,10 +11,7 @@ Para executar o conteiner
 ```bash
 docker run conteiner_carguru
 ```
-[Reaproveitando conteiner](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%204/evidencias/reaproveitar-conteiner.png)
-<br/>
-![Diagrama](./etapa-3/reaproveitar-conteiner.png)
-<br/>
+
 
 
 
@@ -33,6 +30,12 @@ podemos observar todos os conteineres, incluindo os parados, e utilizando o coma
 docker start nome_do_contêiner
 ```
 podemos reutilizar o conteiner
+
+<br/><br/>
+[Reaproveitando conteiner](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%204/evidencias/reaproveitar-conteiner.png)
+<br/>
+![Diagrama](./etapa-3/reaproveitar-conteiner.png)
+<br/>
 </div>
 
 ## Etapa 3
