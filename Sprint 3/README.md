@@ -25,7 +25,6 @@ Na pasta evidências podemos observar algumas imagens
 # Certificados
 
 - [Parceiros da AWS: Aspectos econômicos da nuvem](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%203/certificados/Rafael_Kabata_AWS%20Course%20Completion%20Certificate.pdf)
-   ![Diagrama](./certificados/Rafael_Kabata_AWS Course Completion Certificate.pdf)
 
 </div>
 
