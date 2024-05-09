@@ -8,8 +8,8 @@ O objetivo da sprint 4 é a prática de Python com Containers Docker combinando 
 # Evidências 
 <br/>
 [Criação do conteiner da aplicação que permitia input](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%204/evidencias/Criacao_imagem_hash.png)
-![Diagrama](./evidencias/Criacao_imagem_hash.png) <br/><br/>
-
+![Diagrama](./evidencias/Criacao_imagem_hash.png) 
+<br/><br/>
 [Aplicação com input sendo executada através do conteiner]<br/>(https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%204/evidencias/hash_executado.png)
 ![Diagrama](./evidencias/hash_executado.png)
 <br/>
