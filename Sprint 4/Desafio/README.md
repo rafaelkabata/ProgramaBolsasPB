@@ -60,5 +60,6 @@ docker run -it hash_calculator MascararDados .
 ```
 
 a flag -it serve para que o terminal vire interativo e o usuário consiga digitar no terminal
+a flag -f especifica o arquivo Dockerfile a ser utilizado para a construção da imagem.
 
 </div>
