@@ -15,6 +15,7 @@ docker run conteiner_carguru
 [Reaproveitando Conteiner](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%204/evidencias/reaproveitar-conteiner.png)
 
 ![Diagrama](./evidencias/reaproveitar-conteiner.png)
+<br/>
 </div>
 
 ## Etapa 2 
