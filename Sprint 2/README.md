@@ -9,9 +9,13 @@ O objetivo foi a prática do conhecimento de modelagem de banco de dados relacio
 Na pasta evidências podemos observar algumas imagens
 
 - [Diagrama do banco de dados Relacional](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%202/evidencias/Diagrama_BDRelacional.png)
+  
 - [Diagrama Dimensional](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%202/evidencias/Diagrama_dimensional.png)
+
 - [Código SQL da modelagem do banco de dados relacional](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%202/evidencias/codigo.png)
+
 - [Código SQL da modelagem do banco de dados relacional] (https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%202/evidencias/codigo2.png)
+
 - [Código SQL da modelagem do banco de dados relacional] (https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%202/evidencias/codigo3.png)
 
 
