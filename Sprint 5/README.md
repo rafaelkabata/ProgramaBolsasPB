@@ -32,4 +32,9 @@ Após encontrar o arquivo, o próximo passo foi acessar a [documentação do Sel
 
 ![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%205/evidencias/documentacao_aws.png)
 
+<br><br>
+
+Após conhecer os comandos suportados pelo Select S3, criei um Bucket via console e enviei meu csv para poder ter acesso ao terminal para começar a construir minha query de pesquisa que seria passada via terminal posteriormente via código e Boto3. ABaixo está onde consegui construir a query com todos os requisitos propostos pelo desafio.
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%205/evidencias/consulta_s3_aws.png)
+
 
