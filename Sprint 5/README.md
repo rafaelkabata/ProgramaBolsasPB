@@ -18,5 +18,11 @@ O primeiro passo foi a escolha de um arquivo Json ou CSV na [bases de dados publ
 
 Como eu também sou Engenheiro Agrônomo, procurei uma base de dados que fosse relacionado com agricultura, onde acabei achando a base de dados do [Cadastro Ambiental Rural](https://dados.gov.br/dados/conjuntos-dados/cadastro-ambiental-rural1). O Cadastro Ambiental Rural (CAR) é um registro eletrônico obrigatório para todos os imóveis rurais no Brasil, instituído pelo Código Florestal de 2012 (Lei n° 12.651/2012). O CAR integra informações ambientais das propriedades rurais, como Áreas de Preservação Permanente (APPs), Reserva Legal (RL), florestas e remanescentes de vegetação nativa, além das áreas de interesse social e utilidade pública.O objetivo principal do CAR é a formação de uma base de dados para controle, monitoramento, planejamento ambiental e econômico, além de combate ao desmatamento. A inscrição no CAR é o primeiro passo para a regularização ambiental das propriedades e posses rurais, sendo essencial para acessar diversas políticas públicas e incentivos econômicos. Eu acabei optando por analisar o arquivo "Imóveis Cadastrados por Unidade Federativa" 
 
-<br><br>
+<br>
 ![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%205/evidencias/cadastro_area_rural.png)
+<br><br>
+
+Sendo esta a minha base de dados que conta com uf(unidade federativa), numero_de_cadastros(número de cadastros no sistema por unidade federativa) e area_cadastrada(Área cadastrada por unidade federativa) <br>
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%205/evidencias/imoveis_cadastrados_tabela.png)
+
+
