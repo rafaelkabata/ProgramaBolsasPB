@@ -38,10 +38,10 @@ Após conhecer os comandos suportados pelo Select S3, criei um Bucket via consol
 - As duas cláusulas de pesquisa que filtra dados com dois operadores lógicos ( AND e OR )
 - Duas funções de agregação ( SUM e AVG )
 - Uma função Condicional ( NULLIF )
-- Uma função de Conversão ( Cast )
+- Uma função de Conversão ( CAST )
 - Uma função de data ( UTCNOW() )
-- Uma função de String ( Upper )
-- 
+- Uma função de String ( UPPER )
+  
 ![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%205/evidencias/consulta_s3_aws.png)
 
 <br><br>
