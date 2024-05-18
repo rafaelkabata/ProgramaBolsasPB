@@ -64,6 +64,12 @@ Por fim, após a criação e envio do csv via código, era necessário testar se
 
 ![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%205/evidencias/enviar_query_e_retornar_valor_aws.png)
 
+<br><br>
+
+E podemos observar o sucesso do código onde ele retorna que o bucket foi criado, o csv foi enviado e o resultado da query 
+<br> 
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%205/evidencias/resultado_prompt_aws.png)
+
 
 
 
