@@ -46,4 +46,8 @@ Após conhecer os comandos suportados pelo Select S3, criei um Bucket via consol
 
 <br><br>
 
+Após conseguir construir a query, comecei a construir o código para criar um bucket, enviar o csv e fazer a consulta tudo via código e linha de comando. Porém, antes foi necessário configurar o acesso da AWS via aws configure. Não obtive muita dificuldade nesta etapa graças ao nosso instrutor Ari que deu o suporte necessário para a configuração de nossas maquinas através de sua monitoria. Fica aqui o meu agradecimento. Fui construindo o código por etapas, então a primeira etapa foi construir a parte para a criação do Bucket pela linha do comando como demonstrado abaixo
+
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%205/evidencias/codigo_criacao_bucket.png)
+
 
