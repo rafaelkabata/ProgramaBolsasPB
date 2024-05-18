@@ -22,7 +22,16 @@ Como eu também sou Engenheiro Agrônomo, procurei uma base de dados que fosse r
 ![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%205/evidencias/cadastro_area_rural.png)
 <br><br>
 
-Sendo esta a minha base de dados que conta com uf(unidade federativa), numero_de_cadastros(número de cadastros no sistema por unidade federativa) e area_cadastrada(Área cadastrada por unidade federativa) <br>
+Sendo esta a minha base de dados que conta com uf(unidade federativa), numero_de_cadastros(número de cadastros no sistema por unidade federativa) e area_cadastrada(Área cadastrada por unidade federativa) <br> <br>
+
 ![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%205/evidencias/imoveis_cadastrados_tabela.png)
+
+<br>
+
+Após encontrar o arquivo, o próximo passo foi acessar a [documentação do Select s3](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/s3-select-sql-reference-select.html) para começar a pensar na query para fazer a consulta via Boto3. A documentação do Amazon S3 Select descreve o uso do comando SQL SELECT para consultar dados diretamente nos objetos S3. Suporta cláusulas padrão como SELECT, FROM, WHERE e LIMIT, mas não permite subconsultas ou junções. Explica como consultar dados em formatos CSV e JSON, detalhando o acesso a atributos e as expressões escalares. Inclui exemplos práticos para ilustrar consultas e tratamento de dados.
+<br>
+
+
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%205/evidencias/documentacao_aws.png)
 
 
