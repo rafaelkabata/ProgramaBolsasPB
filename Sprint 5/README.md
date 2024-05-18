@@ -52,8 +52,18 @@ Após conseguir construir a query, comecei a construir o código para criar um b
 
 <br><br>
 
-Após esta etapa e vendo que tinha conseguido criar o bucket pelo script, comecei a trabalhar para que quando ele criasse o bucket também conseguisse enviar o arquivo csv para o armazenamento e podemos conferir abaixo como ficou esta parte
+Após esta etapa e vendo que tinha conseguido criar o bucket pelo script, comecei a trabalhar para que quando ele criasse o bucket também conseguisse enviar o arquivo csv para o armazenamento e podemos conferir abaixo como ficou esta parte:
 
 ![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%205/evidencias/enviar_csv_aws.png)
+
+<br><br>
+
+Por fim, após a criação e envio do csv via código, era necessário testar se a query que fiz estava retornando valores pelo script e construir esta consulta, abaixo podemos conferir como ficou esta parte:
+<br>
+
+
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%205/evidencias/enviar_query_e_retornar_valor_aws.png)
+
+
 
 
