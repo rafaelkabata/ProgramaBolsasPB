@@ -70,6 +70,13 @@ E podemos observar o sucesso do código onde ele retorna que o bucket foi criado
 <br> 
 ![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%205/evidencias/resultado_prompt_aws.png)
 
+<br><br>
 
+# Certificados
+[Certificado AWS Cloud Quest: Cloud Practitioner](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%205/certificados/aws-cloud-quest.png) [acesso em](https://www.credly.com/badges/b2d4674c-b441-4fe1-94ed-a94d3b89a51a)
+
+[AWS Skill Builder Course Completion Certificate](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%205/certificados/18719_5_5266074_1716215657_AWS%20Skill%20Builder%20Course%20Completion%20Certificate.pdf)
+<br/>
+</div>
 
 
