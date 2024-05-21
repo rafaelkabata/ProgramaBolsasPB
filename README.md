@@ -28,8 +28,15 @@ Uma curiosidade sobre minha vida: morei no Japão por 7 anos quando era criança
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="30" alt="instagram logo"  />
   </a>
 </div> 
-
-<img align="center" height="160" width="150" src="https://www.credly.com/badges/b2d4674c-b441-4fe1-94ed-a94d3b89a51a/image.png">
+<a href="https://www.credly.com/users/rafael-kabata/badges">
+   <div align="center">
+     <img height="120" src="https://images.credly.com/size/1000x1000/images/a12fff38-aab2-4643-be27-7e5c39ddc75c/image.png"  />
+     <img height="120" src="https://images.credly.com/size/1000x1000/images/ee35f7c5-696e-47ca-895c-960dfba108b3/image.png" />
+     <img height="120" src="https://images.credly.com/size/1000x1000/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png" />
+     <img height="120" src="https://images.credly.com/size/1000x1000/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" />
+     <img height="120" src="https://images.credly.com/size/1200x1200/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" />
+   </div>
+</a>
 
 </div>
  
