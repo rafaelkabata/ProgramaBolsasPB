@@ -29,6 +29,7 @@ Uma curiosidade sobre minha vida: morei no Japão por 7 anos quando era criança
   </a>
 </div> 
 
+<img align="center" height="160" width="150" src="https://www.credly.com/badges/b2d4674c-b441-4fe1-94ed-a94d3b89a51a/image.png">
 
 </div>
  
