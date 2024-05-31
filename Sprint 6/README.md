@@ -6,16 +6,14 @@ A Squad 5 ao qual faço parte ficou com o tema de ação e aventura para anális
 - Fazer comparações entre os filmes da década de 80 com os novos filmes;
 - Orçamento;
 
-  Essas são apenas algumas idéias para se análisar
-
-
+  Essas são apenas algumas idéias para se fazer de análises
 
 <br/>
 </div>
 
 
 # [Desafio](https://github.com/rafaelkabata/ProgramaBolsasPB/tree/main/Sprint%206/Desafio)
-## O objetivo da [Sprint 06](https://github.com/rafaelkabata/ProgramaBolsasPB/tree/main/Sprint%206/Desafio) foi praticar a combinação de conhecimentos visto no programa, fazendo um mix de tudo que já foi dito.
+### O objetivo da [Sprint 06](https://github.com/rafaelkabata/ProgramaBolsasPB/tree/main/Sprint%206/Desafio) foi praticar a combinação de conhecimentos visto no programa, fazendo um mix de tudo que já foi dito.
 <br/>
 </div>
 
