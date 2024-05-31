@@ -37,6 +37,11 @@ Após a criação do script Python utilizando a biblioteca Boto3, comecei a cons
 ![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/evidencias/Dockerfile.png)
 ![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/evidencias/requirements.png)
 
+<br>
+Na mesma pasta é necessário também se colocar as credenciais da aws como vemos abaixo :
+
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/evidencias/awsConfig.png)
+
 # Evidencias
 
 
