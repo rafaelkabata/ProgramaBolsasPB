@@ -59,9 +59,12 @@ Após a construção de todos os scripts, foi a vez de construir o conteiner e r
 
 Para se ter certeza da criação correta do Bucket e do upload dos arquivos, acessamos o prompt da aws no navegador ao qual podemos nos certificar que foi criado o Bucket e o upload dos arquivos foram feitos obedecendo `s3://<Bucket-name>/Raw/Local/CSV/Movies_ou_series/YYYY/MM/DD/file-name.csv` como proposto no desafio.
 
-<br> arquivo_series_bucket.png
 ![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/evidencias/Bucket_criado.png)
+<br>
+Podemos ver o arquivo upado na aws e com o caminho correto
 ![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/evidencias/arquivo_movies_bucket.png)
+<br>
+Podemos ver o arquivo upado na aws e com o caminho correto
 ![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/evidencias/arquivo_series_bucket.png)
 
 
