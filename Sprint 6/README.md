@@ -51,6 +51,13 @@ A última construção ficou por conta do Compose.yaml, que permite orquestrar m
 <br>
 ![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/evidencias/Compose.png)
 
+<br>
+
+Após a construção de todos os scripts, foi a vez de construir o conteiner e rodar o docker composer como podemos ver na imagem abaixo com o script rodando e retornando a criação do Bucket, e o upload dos arquivos
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/evidencias/prompt.png)
+
+
+
 
 
 
