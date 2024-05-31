@@ -45,6 +45,12 @@ Na mesma pasta é necessário também se colocar as credenciais da aws como vemo
 
 ![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/evidencias/awsConfig.png)
 
+<br>
+
+A última construção ficou por conta do Compose.yaml, que permite orquestrar múltiplos contêineres, definindo serviços, redes e volumes em um único arquivo YAML, simplificando o processo de desenvolvimento e implantação de aplicações complexas. Define a configuração para um serviço chamado s3-upload-batch, que será construído a partir de um Dockerfile localizado no diretório atual. Ele especifica dois volumes montados. O primeiro volume mapeia o diretório ../dados no host para o diretório /app/data dentro do contêiner, permitindo que dados sejam compartilhados entre o host e o contêiner. O segundo volume mapeia o diretório ~/.aws no host (que geralmente contém as credenciais de configuração da AWS) para o diretório /root/.aws no contêiner, permitindo que o contêiner acesse as credenciais da AWS para autenticação e interação com serviços AWS, como o S3. Essa configuração é útil para uma aplicação que precisa manipular dados locais e autenticar na AWS para realizar operações, como fazer upload de arquivos para um bucket S3.
+<br>
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/evidencias/Compose.png)
+
 
 
 
