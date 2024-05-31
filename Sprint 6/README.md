@@ -32,7 +32,9 @@ Iniciei o desafio criando um script em Python utilizando a biblioteca Boto3 para
 
 Após a criação da função para se criar o Bucket, foi a vez de construir a função que fará o upload dos arquivos para a AWS. Os dados devem ser salvos na camada Raw do Bucket no formato `s3://<Bucket-name>/Raw/Local/CSV/Movies_ou_series/YYYY/MM/DD/file-name.csv`. Por isso devemos obter a data do upload usando o datetime.now(). Depois ele define o caminho conforme o formato proposto e realiza o upload do arquivo para o S3 na AWS. Também é definido um nome para o Bucket e um dicionário para o script entender quando é o arquivo movies.csv e quando é o arquivo series.csv na hora da criação da pasta. Ao final do script ele roda as duas funções.
 <br>
+
 ![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/evidencias/CodigoBoto3_2.png)
+
 <br>
 
 Após a criação do script Python utilizando a biblioteca Boto3, comecei a construir a imagem do conteiner Dockerfile. Abaixo podemos observar no arquivo Dockerfile que ele irá buscar a imagem oficial do python para a construção do conteiner. Define o diretório de trabalho e copia o arquivo requirements.txt para dentro do conteiner. O arquivo requirements.txt lista todas as dependências de bibliotecas Python que o projeto precisa para funcionar corretamente. Faz as instalações das dependencias do python, copia o script python para o diretório de trabalho do conteiner, depois ele monta os volumes para armazenas as credenciais da aws e os arquivos csv e após isso executa o conteiner.
