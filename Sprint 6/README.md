@@ -22,6 +22,7 @@ A Squad 5 ao qual faço parte ficou com o tema de ação e aventura para anális
 ![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/evidencias/Desafio.png)
 <br/>
 </div>
+
 # Evidencias
 <br/>
 </div>
