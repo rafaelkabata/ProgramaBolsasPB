@@ -22,7 +22,9 @@ A Squad 5 ao qual faço parte ficou com o tema de ação e aventura para anális
 ![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/evidencias/Desafio.png)
 <br/>
 </div>
-
+# Evidencias
+<br/>
+</div>
 Iniciei o desafio criando um script em Python utilizando a biblioteca Boto3 para acessar a AWS e o S3 e estar criando um Bucket que armazenará os arquivos movies.csv e series.csv. Abaixo podemos observar a criação da função que faz a verificação e a criação do Bucket no S3. <br>
 ![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/evidencias/CodigoBoto3_1.png)
 <br>
@@ -42,7 +44,7 @@ Na mesma pasta é necessário também se colocar as credenciais da aws como vemo
 
 ![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/evidencias/awsConfig.png)
 
-# Evidencias
+
 
 
 
