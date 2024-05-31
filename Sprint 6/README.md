@@ -23,11 +23,11 @@ A Squad 5 ao qual faço parte ficou com o tema de ação e aventura para anális
 <br/>
 </div>
 
-Iniciei o desafio criando um script em Python utilizando a biblioteca Boto3 para acessar a AWS e o S3 e estar criando um Bucket que armazenará os arquivos movies.csv e series.csv.Abaixo podemos observar a criação da função que faz a verificação e a criação do Bucket no S3. <br>
+Iniciei o desafio criando um script em Python utilizando a biblioteca Boto3 para acessar a AWS e o S3 e estar criando um Bucket que armazenará os arquivos movies.csv e series.csv. Abaixo podemos observar a criação da função que faz a verificação e a criação do Bucket no S3. <br>
 ![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/evidencias/CodigoBoto3_1.png)
 <br>
 
-Após a criação da função para se criar o Bucket, foi a vez de construir a função que fará o upload dos arquivos para a AWS. Os dados devem ser salvos na camada Raw do Bucket no formato `s3://<Bucket-name>/Raw/Local/CSV/Movies/YYYY/MM/DD/file-name.csv`. Por isso devemos obter a data do upload usando o datetime.now(). Depois ele define o caminho conforme o formato proposto e realiza o upload do arquivo para o S3 na AWS. Também é definido um nome para o Bucket e um dicionário para o script entender quando é o arquivo movies.csv e quando é o arquivo series.csv na hora da criação da pasta. Ao final do script ele roda as duas funções.
+Após a criação da função para se criar o Bucket, foi a vez de construir a função que fará o upload dos arquivos para a AWS. Os dados devem ser salvos na camada Raw do Bucket no formato `s3://<Bucket-name>/Raw/Local/CSV/Movies_ou_series/YYYY/MM/DD/file-name.csv`. Por isso devemos obter a data do upload usando o datetime.now(). Depois ele define o caminho conforme o formato proposto e realiza o upload do arquivo para o S3 na AWS. Também é definido um nome para o Bucket e um dicionário para o script entender quando é o arquivo movies.csv e quando é o arquivo series.csv na hora da criação da pasta. Ao final do script ele roda as duas funções.
 <br>
 ![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/evidencias/CodigoBoto3_2.png)
 
