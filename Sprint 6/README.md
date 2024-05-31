@@ -55,7 +55,14 @@ A última construção ficou por conta do Compose.yaml, que permite orquestrar m
 
 Após a construção de todos os scripts, foi a vez de construir o conteiner e rodar o docker composer como podemos ver na imagem abaixo com o script rodando e retornando a criação do Bucket, e o upload dos arquivos
 ![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/evidencias/prompt.png)
+<br>
 
+Para se ter certeza da criação correta do Bucket e do upload dos arquivos, acessamos o prompt da aws no navegador ao qual podemos nos certificar que foi criado o Bucket e o upload dos arquivos foram feitos obedecendo `s3://<Bucket-name>/Raw/Local/CSV/Movies_ou_series/YYYY/MM/DD/file-name.csv` como proposto no desafio.
+
+<br> arquivo_series_bucket.png
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/evidencias/Bucket_criado.png)
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/evidencias/arquivo_movies_bucket.png)
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/evidencias/arquivo_series_bucket.png)
 
 
 
