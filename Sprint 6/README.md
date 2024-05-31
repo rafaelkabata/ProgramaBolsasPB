@@ -1,8 +1,7 @@
 # [Desafio](https://github.com/rafaelkabata/ProgramaBolsasPB/tree/main/Sprint%206/Desafio)
-## O objetivo da [Sprint 05](https://github.com/rafaelkabata/ProgramaBolsasPB/tree/main/Sprint%206/Desafio) foi a praticar conhecimento de nuvem AWS aprendidos na sprint.
+## O objetivo da [Sprint 06](https://github.com/rafaelkabata/ProgramaBolsasPB/tree/main/Sprint%206/Desafio) foi praticar a combinação de conhecimentos visto no programa, fazendo um mix de tudo que já foi dito
 
-![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%205/evidencias/Desafio.png)
-![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%205/evidencias/obj_desafio_2.png)
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/evidencias/Desafio.png)
 <br/>
 </div>
 
