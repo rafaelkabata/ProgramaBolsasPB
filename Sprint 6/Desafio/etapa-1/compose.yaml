@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  s3-upload-batch:
+    build: .
+    volumes:
+      - ../dados:/app/data
+      - ~/.aws:/root/.aws
+
