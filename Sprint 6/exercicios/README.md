@@ -1,8 +1,6 @@
-Lab AWS S3
-Objetivo:
-
-
-Explorar as capacidades do serviço AWS S3.  Nos passos que seguem, você será guiado pelas configurações necessárias para que um bucket do Amazon S3 funcione como hospedagem de conteúdo estático.
+# Lab AWS S3
+## Objetivo:
+## Explorar as capacidades do serviço AWS S3.  Nos passos que seguem, você será guiado pelas configurações necessárias para que um bucket do Amazon S3 funcione como hospedagem de conteúdo estático.
 
 
 
@@ -67,6 +65,7 @@ Por exemplo, você pode encaminhar solicitações condicionalmente de acordo com
 
 
 Selecione Save changes.
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/exercicios/2-exbucket.png)
 
 O Amazon S3 permite a hospedagem estática de sites para seu bucket. Na parte inferior da página, em Static website hosting (Hospedagem estática de sites), você verá o endpoint do site do seu bucket.
 
@@ -75,6 +74,8 @@ O Amazon S3 permite a hospedagem estática de sites para seu bucket. Na parte in
 Em Static website hosting (Hospedagem de sites estáticos), copie o endpoint informado.
 
 O Endpoint é o endereço do site do Amazon S3 para o bucket.  Informe o endereço na barra de navegação de seu navegador para testar o resultado.
+
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/exercicios/3-exbucket.png)
 
 
 
@@ -94,6 +95,8 @@ Escolha Permissions (Permissões).
 Em Block public access (bucket settings) (Bloqueio de acesso público (configurações de bucket), escolha Edit (Editar).
 
 Desmarque Block all public access (Bloquear todo acesso público) e escolha Save changes (Salvar alterações).
+
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/exercicios/4-exbucket.png)
 
 O Amazon S3 desativa as configurações do bloqueio de acesso público para seu bucket. Para criar um site público e estático, você também pode ter que editar as configurações de Bloqueio de acesso público para sua conta antes de adicionar uma política de bucket. Se as configurações da conta para bloquear acesso público estiverem ativadas no momento, você verá uma observação em Block public access (bucket settings) (Bloqueio de acesso público (configurações de bucket)).
 
@@ -135,6 +138,7 @@ Na política de bucket do exemplo anterior, Bucket-Name é um espaço reservado 
 
 
 Selecione Save changes.
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/exercicios/5-exbucket.png)
 
 Uma mensagem é exibida indicando que a política de bucket foi adicionada com sucesso.
 
@@ -228,3 +232,5 @@ Escolha Properties (Propriedades).
 Na parte inferior da página, em Static website hosting (Hospedagem estática de sites), escolha seu Bucket website endpoint (Endpoint de site do Bucket). Seu documento de índice é aberto em uma janela separada do navegador.
 
 Agora você tem um site hospedado no Amazon S3. Esse site está disponível publicamente no endpoint de site do Amazon S3. Você pode também ter um domínio, como example.com, para exibir o conteúdo do site que criou. Neste caso, é preciso executar etapas adicionais.
+
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/exercicios/6-exbucket.png)
