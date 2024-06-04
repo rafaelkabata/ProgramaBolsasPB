@@ -25,6 +25,8 @@ Selecione a região onde você deseja criar o bucket. Escolha US East (N. Virgin
 
 Para aceitar as configurações padrão e criar o bucket, escolha Create (Criar).
 
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/exercicios/1-exbucket.png)
+
 
 
 Etapa 2: Habilitar hospedagem de site estático
