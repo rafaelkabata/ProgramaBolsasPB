@@ -1,82 +1,80 @@
-# [Desafio](https://github.com/rafaelkabata/ProgramaBolsasPB/tree/main/Sprint%205/Desafio)
-## O objetivo da [Sprint 05](https://github.com/rafaelkabata/ProgramaBolsasPB/tree/main/Sprint%205/Desafio) foi a praticar conhecimento de nuvem AWS aprendidos na sprint.
+# SOBRE O DESAFIO FINAL
+A Squad 5 ao qual faço parte ficou com o tema de ação e aventura para análise de filmes e séries. Ao análisar as possibilidades existentes no csv de movies e series para ação e aventura, acabei encontrando o título de Indiana Jones. Indiana Jones é um personagem icônico do cinema, criado por George Lucas e interpretado por Harrison Ford. Ele é um arqueólogo aventureiro que se envolve em missões perigosas para encontrar artefatos lendários e enfrentar vilões. A série começou com "Os Caçadores da Arca Perdida" (1981), onde Indiana tenta impedir que os nazistas consigam a Arca da Aliança. Em "Indiana Jones e o Templo da Perdição" (1984), ele busca pedras sagradas na Índia e enfrenta uma seita maléfica. "Indiana Jones e a Última Cruzada" (1989) o vê em uma busca pelo Santo Graal ao lado de seu pai, lutando contra os nazistas. Em "Indiana Jones e o Reino da Caveira de Cristal" (2008), ele enfrenta agentes soviéticos e investiga mistérios envolvendo alienígenas. O mais recente filme, "Indiana Jones e o Chamado do Destino" (2023), apresenta Indy em uma nova jornada cheia de ação e mistério, enfrentando novos desafios e descobrindo novos artefatos. Indiana é conhecido por seu chapéu Fedora, chicote e jeito astuto, combinando inteligência com coragem. Os filmes são adorados por suas cenas de ação, humor e o carisma do personagem principal.
 
-![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%205/evidencias/obj_desafio_1.png)
-![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%205/evidencias/obj_desafio_2.png)
+- Em minhas análises, buscarei fazer comparações de bilheteria entre os filmes;
+- Análisar as notas médias dos críticos;
+- Fazer comparações entre os filmes da década de 80 com os novos filmes;
+- Orçamento;
+
+  Essas são apenas algumas idéias para se fazer de análises
+
+<br/>
+</div>
+
+
+# [Desafio](https://github.com/rafaelkabata/ProgramaBolsasPB/tree/main/Sprint%206/Desafio)
+### O objetivo da [Sprint 06](https://github.com/rafaelkabata/ProgramaBolsasPB/tree/main/Sprint%206/Desafio) foi praticar a combinação de conhecimentos visto no programa, fazendo um mix de tudo que já foi dito.
+<br/>
+</div>
+
+
+
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/evidencias/Desafio.png)
 <br/>
 </div>
 
 # Evidencias
-
-## Aqui está o passo a passo de como foi construido toda a sprint 5.
-
-O primeiro passo foi a escolha de um arquivo Json ou CSV na [bases de dados publicos do governo](https://dados.gov.br/home) para escolher um arquivo para ser trabalhado durante esta sprint.<br><br>
-![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%205/evidencias/dados_governo.png)
-<br><br>
-
-Como eu também sou Engenheiro Agrônomo, procurei uma base de dados que fosse relacionado com agricultura, onde acabei achando a base de dados do [Cadastro Ambiental Rural](https://dados.gov.br/dados/conjuntos-dados/cadastro-ambiental-rural1). O Cadastro Ambiental Rural (CAR) é um registro eletrônico obrigatório para todos os imóveis rurais no Brasil, instituído pelo Código Florestal de 2012 (Lei n° 12.651/2012). O CAR integra informações ambientais das propriedades rurais, como Áreas de Preservação Permanente (APPs), Reserva Legal (RL), florestas e remanescentes de vegetação nativa, além das áreas de interesse social e utilidade pública.O objetivo principal do CAR é a formação de uma base de dados para controle, monitoramento, planejamento ambiental e econômico, além de combate ao desmatamento. A inscrição no CAR é o primeiro passo para a regularização ambiental das propriedades e posses rurais, sendo essencial para acessar diversas políticas públicas e incentivos econômicos. Eu acabei optando por analisar o arquivo "Imóveis Cadastrados por Unidade Federativa". 
-<br>
-
-![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%205/evidencias/cadastro_area_rural.png)
-<br><br>
-
-Sendo esta a minha base de dados que conta com uf(unidade federativa), numero_de_cadastros(número de cadastros no sistema por unidade federativa) e area_cadastrada(Área cadastrada por unidade federativa) <br> <br>
-
-![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%205/evidencias/imoveis_cadastrados_tabela.png)
-
-<br>
-
-Após encontrar o arquivo, o próximo passo foi acessar a [documentação do Select s3](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/s3-select-sql-reference-select.html) para começar a pensar na query para fazer a consulta via Boto3. A documentação do Amazon S3 Select descreve o uso do comando SQL SELECT para consultar dados diretamente nos objetos S3. Suporta cláusulas padrão como SELECT, FROM, WHERE e LIMIT, mas não permite subconsultas ou junções. Explica como consultar dados em formatos CSV e JSON, detalhando o acesso a atributos e as expressões escalares. Inclui exemplos práticos para ilustrar consultas e tratamento de dados.
-<br>
-
-
-![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%205/evidencias/documentacao_aws.png)
-
-<br><br>
-
-Após conhecer os comandos suportados pelo Select S3, criei um Bucket via console e enviei meu csv para poder ter acesso ao terminal para começar a construir minha query de pesquisa que seria passada via terminal posteriormente via código e Boto3. Abaixo está onde consegui construir a query com todos os requisitos propostos pelo desafio. 
-- As duas cláusulas de pesquisa que filtra dados com dois operadores lógicos ( AND e OR )
-- Duas funções de agregação ( SUM e AVG )
-- Uma função Condicional ( NULLIF )
-- Uma função de Conversão ( CAST )
-- Uma função de data ( UTCNOW() )
-- Uma função de String ( UPPER )
-  
-![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%205/evidencias/consulta_s3_aws.png)
-
-<br><br>
-
-Após conseguir construir a query, comecei a construir o código para criar um bucket, enviar o csv e fazer a consulta tudo via código e linha de comando. Porém, antes foi necessário configurar o acesso da AWS via aws configure. Não obtive muita dificuldade nesta etapa graças ao nosso instrutor Ari que deu o suporte necessário para a configuração de nossas maquinas através de sua monitoria. Fica aqui o meu agradecimento. Fui construindo o código por etapas, então a primeira etapa foi construir a parte para a criação do Bucket pela linha do comando como demonstrado abaixo. As credenciais de acesso da aws também poderiam ser passadas via código, mas eu optei por configurar o acesso na minha máquina.
-
-![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%205/evidencias/codigo_criacao_bucket.png)
-
-<br><br>
-
-Após esta etapa e vendo que tinha conseguido criar o bucket pelo script, comecei a trabalhar para que quando ele criasse o bucket também conseguisse enviar o arquivo csv para o armazenamento e podemos conferir abaixo como ficou esta parte:
-
-![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%205/evidencias/enviar_csv_aws.png)
-
-<br><br>
-
-Por fim, após a criação e envio do csv via código, era necessário testar se a query que fiz estava retornando valores pelo script e construir esta consulta, abaixo podemos conferir como ficou esta parte:
-<br>
-
-
-![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%205/evidencias/enviar_query_e_retornar_valor_aws.png)
-
-<br><br>
-
-E podemos observar o sucesso do código onde ele retorna que o bucket foi criado, o csv foi enviado e o resultado da query 
-<br> 
-![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%205/evidencias/resultado_prompt_aws.png)
-
-<br><br>
-
-# Certificados
-[Certificado AWS Cloud Quest: Cloud Practitioner](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%205/certificados/aws-cloud-quest.png) [acesso em](https://www.credly.com/badges/b2d4674c-b441-4fe1-94ed-a94d3b89a51a)
-
-[AWS Skill Builder Course Completion Certificate](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%205/certificados/18719_5_5266074_1716215657_AWS%20Skill%20Builder%20Course%20Completion%20Certificate.pdf)
 <br/>
 </div>
+Iniciei o desafio criando um script em Python utilizando a biblioteca Boto3 para acessar a AWS e o S3 e estar criando um Bucket que armazenará os arquivos movies.csv e series.csv. Abaixo podemos observar a criação da função que faz a verificação e a criação do Bucket no S3. <br>
+
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/evidencias/CodigoBoto3_1.png)
+
+<br>
+
+Após a criação da função para se criar o Bucket, foi a vez de construir a função que fará o upload dos arquivos para a AWS. Os dados devem ser salvos na camada Raw do Bucket no formato `s3://<Bucket-name>/Raw/Local/CSV/Movies_ou_series/YYYY/MM/DD/file-name.csv`. Por isso devemos obter a data do upload usando o datetime.now(). Depois ele define o caminho conforme o formato proposto e realiza o upload do arquivo para o S3 na AWS. Também é definido um nome para o Bucket e um dicionário para o script entender quando é o arquivo movies.csv e quando é o arquivo series.csv na hora da criação da pasta. Ao final do script ele roda as duas funções.
+<br>
+
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/evidencias/CodigoBoto3_2.png)
+
+<br>
+
+Após a criação do script Python utilizando a biblioteca Boto3, comecei a construir a imagem do conteiner Dockerfile. Abaixo podemos observar no arquivo Dockerfile que ele irá buscar a imagem oficial do python para a construção do conteiner. Define o diretório de trabalho e copia o arquivo requirements.txt para dentro do conteiner. O arquivo requirements.txt lista todas as dependências de bibliotecas Python que o projeto precisa para funcionar corretamente. Faz as instalações das dependencias do python, copia o script python para o diretório de trabalho do conteiner, depois ele monta os volumes para armazenas as credenciais da aws e os arquivos csv e após isso executa o conteiner.
+<br>
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/evidencias/Dockerfile.png)
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/evidencias/requirements.png)
+
+<br>
+Na mesma pasta é necessário também se colocar as credenciais da aws como vemos abaixo :
+
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/evidencias/awsConfig.png)
+
+<br>
+
+A última construção ficou por conta do Compose.yaml, que permite orquestrar múltiplos contêineres, definindo serviços, redes e volumes em um único arquivo YAML, simplificando o processo de desenvolvimento e implantação de aplicações complexas. Define a configuração para um serviço chamado s3-upload-batch, que será construído a partir de um Dockerfile localizado no diretório atual. Ele especifica dois volumes montados. O primeiro volume mapeia o diretório ../dados no host para o diretório /app/data dentro do contêiner, permitindo que dados sejam compartilhados entre o host e o contêiner. O segundo volume mapeia o diretório ~/.aws no host (que geralmente contém as credenciais de configuração da AWS) para o diretório /root/.aws no contêiner, permitindo que o contêiner acesse as credenciais da AWS para autenticação e interação com serviços AWS, como o S3. Essa configuração é útil para uma aplicação que precisa manipular dados locais e autenticar na AWS para realizar operações, como fazer upload de arquivos para um bucket S3.
+<br>
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/evidencias/Compose.png)
+
+<br>
+
+Após a construção de todos os scripts, foi a vez de construir o conteiner e rodar o docker composer como podemos ver na imagem abaixo com o script rodando e retornando a criação do Bucket, e o upload dos arquivos
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/evidencias/prompt.png)
+<br>
+
+Para se ter certeza da criação correta do Bucket e do upload dos arquivos, acessamos o prompt da aws no navegador ao qual podemos nos certificar que foi criado o Bucket e o upload dos arquivos foram feitos obedecendo `s3://<Bucket-name>/Raw/Local/CSV/Movies_ou_series/YYYY/MM/DD/file-name.csv` como proposto no desafio.
+
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/evidencias/Bucket_criado.png)
+<br>
+Podemos ver o arquivo upado na aws e com o caminho correto
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/evidencias/arquivo_movies_bucket.png)
+<br>
+Podemos ver o arquivo upado na aws e com o caminho correto
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/evidencias/arquivo_series_bucket.png)
+
+
+
+
+
+
 
 
