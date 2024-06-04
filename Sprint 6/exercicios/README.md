@@ -75,7 +75,7 @@ Em Static website hosting (Hospedagem de sites estáticos), copie o endpoint inf
 
 O Endpoint é o endereço do site do Amazon S3 para o bucket.  Informe o endereço na barra de navegação de seu navegador para testar o resultado.
 <br>
-![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/exercicios/3-exbucket.png)
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/exercicios/7-exbucket.png)
 
 
 
@@ -96,7 +96,7 @@ Em Block public access (bucket settings) (Bloqueio de acesso público (configura
 
 Desmarque Block all public access (Bloquear todo acesso público) e escolha Save changes (Salvar alterações).
 <br>
-![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/exercicios/4-exbucket.png)
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/exercicios/3-exbucket.png)
 
 O Amazon S3 desativa as configurações do bloqueio de acesso público para seu bucket. Para criar um site público e estático, você também pode ter que editar as configurações de Bloqueio de acesso público para sua conta antes de adicionar uma política de bucket. Se as configurações da conta para bloquear acesso público estiverem ativadas no momento, você verá uma observação em Block public access (bucket settings) (Bloqueio de acesso público (configurações de bucket)).
 
@@ -138,7 +138,7 @@ Na política de bucket do exemplo anterior, Bucket-Name é um espaço reservado 
 
 
 Selecione Save changes. <br>
-![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/exercicios/5-exbucket.png)
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/exercicios/4-exbucket.png)
 
 Uma mensagem é exibida indicando que a política de bucket foi adicionada com sucesso.
 
@@ -186,8 +186,8 @@ Arraste e solte o arquivo de índice na listagem de buckets do console.
 Escolha Upload (Fazer upload) e siga as instruções para escolher e fazer upload do arquivo de índice.
 
 Crie uma pasta chamada dados e, após, faça upload do conteúdo do site (arquivo CSV) para ela.
-
-
+<br>
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%206/exercicios/5-exbucket.png)
 
 Etapa 6: configurar documento de erros
 
