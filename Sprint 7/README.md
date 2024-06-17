@@ -27,11 +27,12 @@ O input utilizado para buscar os id's foi o movies.csv, que mandamos na sprint p
 <br>
 ## Processando dados
 Após o processamento da API foram encontrados 12.389 id's e armazenados no Bucket do S3 em arquivos no formato json onde cada Json contém o registro de 100 id's. <br>
-Para a API funcionar, ela necessita ser armazenada em uma váriavel de ambiente da AWS, para não ficar contida no código da Lambda, então ela foi armazenada usando a [AWS KMS](https://aws.amazon.com/pt/kms/) para permanecer em repouso e ser usada apenas quando o script estiver sendo rodado. <br>
+Para a API funcionar, ela necessita de uma Key da TMDB, onde ela pode ser ser armazenada em uma váriavel de ambiente da AWS, para não ficar exposta no código da Lambda, então ela foi armazenada usando a [AWS KMS](https://aws.amazon.com/pt/kms/) para permanecer em repouso e ser usada apenas quando o script estiver sendo rodado. <br>
 Também foi necessário configurar uma camada para o script na Lambda. Em adicionar camada a aws fornece uma layer pronta para rodar o Pandas e o Requests chamada AWSSDKPandas-Python312. <br>
 
 ## Dificuldades
-Após fazer estas configurações meu script ainda não estava sendo rodado pela Lambda, dando erro de permissão. Recebi um auxílio do meu colega de Squad Wanderson para resolver este problema ao qual precisava dar acesso total das funções Lambda para os Buckets, para que ele conseguisse acessar o csv e obter o input desejado. Precisava ir em IAM > Roles > create role > selecionar a lambda > next e selecionar o s3fullaccess. Após isso ir na Lambda desejada, COnfiguration > General > Configuration > Edit e em baixo executar role, selecionar an existing role e usar a que foi criado posteriormente.
+Após fazer todas as configurações meu script ainda não estava sendo rodado pela Lambda, dando erro de permissão. Recebi um auxílio do meu colega de Squad Wanderson para resolver este problema ao qual precisava dar acesso total das funções Lambda para os Buckets, para que ele conseguisse acessar o csv e obter o input desejado. Precisava ir em IAM > Roles > create role > selecionar a lambda > next e selecionar o s3fullaccess. Após isso ir na Lambda desejada, COnfiguration > General > Configuration > Edit e em baixo executar role, selecionar an existing role e usar a que foi criado posteriormente. <br>
+Creio que este desafio foi o mais difícil até o momento.
 
 
 
