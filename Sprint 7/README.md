@@ -8,12 +8,17 @@ Na Sprint passada eu estava com idéia de estudar a trilogia de Indiana Jones, p
 Selecionei para trazer para esta sprint e para as futuras as análises de filmes que contenham ação e aventura em seu genêro lançadas a partir do ano de 2004. Algumas questões que penso em estudar são :
 <br>
 
--Filmes de maiores bilheterias por ano. <br>
--Relação de bilheteria e filmes. <br>
--Quantidade de lançamentos de filmes ao longo desses 20 anos e o aumento ou diminuição do orçamento. <br>
--comparação entre orçamento e filmes. <br>
--atores que tiveram as melhores avaliações x quanto ganharam por filme . <br>
--comparar a nota média entre ação e aventura. <br>
+- Filmes de maiores bilheterias por ano. <br>
+
+- Relação de bilheteria e filmes. <br>
+
+- Quantidade de lançamentos de filmes ao longo desses 20 anos e o aumento ou diminuição do orçamento. <br>
+
+- comparação entre orçamento e filmes. <br>
+
+- atores que tiveram as melhores avaliações x quanto ganharam por filme . <br>
+
+- comparar a nota média entre ação e aventura. <br>
 
 ## API DA TMDB
 A API que utilizei do TMDB foi a API [Movie-Details](https://developer.themoviedb.org/reference/movie-details) ao qual extrai diversas informações de acordo com o id ao qual está requisitando. <br> 
