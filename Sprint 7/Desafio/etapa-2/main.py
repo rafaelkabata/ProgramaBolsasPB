@@ -121,7 +121,7 @@ def chunked(iterable, n):
 
 def main():
     # Chave de API do TMDb
-    api_key = '3988f35697c4fcb55860996f9f342801'
+    api_key = 'XXXXXXXXXXXXXXXXXXXXXXXX'
 
     # Configurações para o S3
     bucket_name = 'rafaelkabata-bucket-teste-programa-bolsa001'
