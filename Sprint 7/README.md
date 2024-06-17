@@ -32,8 +32,42 @@ Também foi necessário configurar uma camada para o script na Lambda. Em adicio
 
 ## Dificuldades
 Após fazer todas as configurações meu script ainda não estava sendo rodado pela Lambda, dando erro de permissão. Recebi um auxílio do meu colega de Squad Wanderson para resolver este problema ao qual precisava dar acesso total das funções Lambda para os Buckets, para que ele conseguisse acessar o csv e obter o input desejado. Precisava ir em IAM > Roles > create role > selecionar a lambda > next e selecionar o s3fullaccess. Após isso ir na Lambda desejada, COnfiguration > General > Configuration > Edit e em baixo executar role, selecionar an existing role e usar a que foi criado posteriormente. <br>
-Creio que este desafio foi o mais difícil até o momento.
+Creio que este desafio foi o mais difícil até o momento. <br>
 
+## Evidências 
+
+<br>
+
+Primeiro criei este script chamado main.py para fazer os devidos testes em minha máquina para saber se o script estava mesmo pegando dados da API, rodando local
+
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%207/evidencias/script_teste_local.png)
+
+<br>
+
+Após a criação desde script e conseguindo fazer ele puxar os json da api localmente, adaptei este scrript para um outro script chamado AWS_Lambda_TMDB.py pois algumas funções que existiam no primeiro código não rodavam na função da Lambda
+<br>
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%207/evidencias/script_local.png)
+
+<br>
+
+Após acertar o script foi a hora de levar para rodar na aws
+
+<br>
+
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%207/evidencias/script_lambda.png)
+
+<br>
+
+E estes foram os json puxados pela minha lambda, cada json contém 100 id's e seus devidos dados.
+
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%207/evidencias/s3.png)
+
+<br>
+
+Onde anexei minha Key da API 
+<br>
+
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%207/evidencias/token.png)
 
 
 
