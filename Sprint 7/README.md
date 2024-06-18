@@ -73,7 +73,8 @@ Onde anexei minha Key da API
 <br>
 
 Por fim, aqui está a estrutura do arquivo pesquisada no S3 select do arquivo json contendo 100 id's de filmes 
-<br>
+<br> <br>
+
 ![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%207/evidencias/s3_select_json.png)
 
 
