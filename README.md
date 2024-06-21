@@ -46,6 +46,8 @@ Uma curiosidade sobre minha vida: morei no Japão por 7 anos quando era criança
 - [Sprint 3.](https://github.com/rafaelkabata/ProgramaBolsasPB/tree/main/Sprint%203) Tivemos a oportunidade de estar aprofundando nossos conhecimentos em Python, assim como nas bibliotecas Pandas e Matplotlib para conclusão do desafio.
 - [Sprint 4.](https://github.com/rafaelkabata/ProgramaBolsasPB/tree/main/Sprint%204) Tivemos a oportunidade de estar aprofundando nossos conhecimentos em Python e Docker, assim como trabalhar com conteineres e Docker Composer e toda a tecnologia relacionada a Docker.
 - [Sprint 5.](https://github.com/rafaelkabata/ProgramaBolsasPB/tree/main/Sprint%205) Tivemos a oportunidade de estar aprofundando nossos conhecimentos em nuvem AWS .
+-  [Sprint 6.](https://github.com/rafaelkabata/ProgramaBolsasPB/tree/main/Sprint%206) Na Sprint 6 deu início ao desafio final. O objetivo foi a criação de um script em python utilizando a biblioteca Boto3 para envio de arquivos csv local em batch utilizando conteiner Docker para a nuvem AWS.
+-  - [Sprint 7.](https://github.com/rafaelkabata/ProgramaBolsasPB/tree/main/Sprint%207) Na Sprint 7 continuou se trabalhando no desafio final, o objetivo desta sprint foi a criação de um script em Python que rodasse na Lambda da nuvem AWS, ao qual faria requisição através da API do TMDB para trazer mais dados para nosso Bucket, porém agora na forma de Json's, ao qual cada Json contém 100 id's de filmes onde utilizou o csv da sprint passada como input.
 </div>
 
 
