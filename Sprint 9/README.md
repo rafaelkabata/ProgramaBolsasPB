@@ -32,6 +32,10 @@ Na última etapa de tratamento, os dados foram transferidos da camada Trusted pa
 
 Durante essa fase, utilizamos o AWS Glue para realizar as transformações e modificações necessárias nos dados. Esse serviço nos permitiu automatizar e agilizar o processo de ETL (Extração, Transformação e Carga). Após a transformação, os dados foram salvos na camada Refined do Bucket S3, com cada diretório dedicado a uma das cinco tabelas criadas: fact_movie_actor, dim_movie, dim_actor, dim_date e dim_genre.
 
+<br>
+
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%209/evidencias/Glue_Refined.PNG)
+
 Essa estrutura organizada facilita a recuperação e análise dos dados, assegurando que cada tabela possa ser acessada e manipulada de forma eficiente para atender às necessidades analíticas do projeto.
 
 ![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%209/evidencias/s3_Refined.PNG)
