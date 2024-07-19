@@ -23,6 +23,37 @@ Por fim, a tabela dim_genre armazena os gêneros principais de cada filme analis
 
 Esta estrutura foi elaborada para facilitar a análise e extração de dados específicos, permitindo uma compreensão mais clara e detalhada das interações e características dos filmes e seus atores, assim como a distribuição de lançamentos ao longo do tempo e a categorização por gênero.
 
+<br>
+
+## Processamento da camada Refined
+<br>
+
+Na última etapa de tratamento, os dados foram transferidos da camada Trusted para a camada Refined, seguindo o modelo dimensional previamente estabelecido para garantir a consistência e a organização das informações.
+
+Durante essa fase, utilizamos o AWS Glue para realizar as transformações e modificações necessárias nos dados. Esse serviço nos permitiu automatizar e agilizar o processo de ETL (Extração, Transformação e Carga). Após a transformação, os dados foram salvos na camada Refined do Bucket S3, com cada diretório dedicado a uma das cinco tabelas criadas: fact_movie_actor, dim_movie, dim_actor, dim_date e dim_genre.
+
+Essa estrutura organizada facilita a recuperação e análise dos dados, assegurando que cada tabela possa ser acessada e manipulada de forma eficiente para atender às necessidades analíticas do projeto.
+
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%209/evidencias/s3_Refined.PNG)
+
+<br>
+
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%209/evidencias/dim_actor_select.PNG)
+
+<br>
+
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%209/evidencias/dim_date_select.PNG)
+
+<br>
+
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%209/evidencias/dim_movie_actor_select.PNG)
+
+<br>
+
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%209/evidencias/dim_movie_select.PNG)
+
+<br>
+
 
 
 
