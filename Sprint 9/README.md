@@ -54,6 +54,25 @@ Essa estrutura organizada facilita a recuperação e análise dos dados, assegur
 
 <br>
 
+Com os dados salvos no S3 em formato Parquet, foi criado um crawler para identificar e catalogar as tabelas no banco de dados do AWS Lake Formation. Isso permitiu que os dados fossem consultados e analisados através de serviços como Athena, para consultas SQL, e QuickSight, para visualizações e dashboards interativos.
+
+Essa etapa foi essencial para garantir que as tabelas fossem facilmente acessíveis e utilizáveis para análises avançadas, proporcionando uma visão detalhada e prática dos dados armazenados. A utilização desses serviços facilita a extração de insights valiosos e a criação de relatórios detalhados, suportando a tomada de decisões informadas.
+
+<br>
+
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%209/evidencias/crawler_1.PNG)
+
+<br>
+
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%209/evidencias/tables_crawler.PNG)
+
+<br>
+
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%209/evidencias/athena_view.PNG)
+
+<br>
+
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%209/evidencias/athena_view2.PNG)
 
 
 
