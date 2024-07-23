@@ -1,5 +1,10 @@
  #  SOBRE
+<br>
+<br>
 
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/img/rafael-kabata.jpg)
+
+<br>
 Olá,
 
 Meu nome é Rafael Kabata, tenho 31 anos e sou da cidade de Sete Barras/SP, localizada na região do Vale do Ribeira, no estado de São Paulo. Estou estudando Desenvolvimento de Software Multiplataforma na FATEC, atualmente cursando o 4º período da graduação. Se tudo der certo, me formo em julho de 2025 :) . Na Fatec, tive contato com bastantes tecnologias, como HTML, CSS, JavaScript, SQL, NoSQL, Python, Java, PHP e Node.js.
