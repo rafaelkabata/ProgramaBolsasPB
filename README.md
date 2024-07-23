@@ -19,6 +19,8 @@ Nas minhas horas vagas, gosto de assistir séries, jogar FIFA no PS5 e ler um bo
 
 Uma curiosidade sobre minha vida: morei no Japão por 7 anos quando era criança, dos meus 5 aos 12 anos de idade. Compreendo o idioma um pouco, mas como estudei em colégio brasileiro lá, não aprendi tanto o idioma.
 
+Em Julho de 2024 fui contratado também como estagiário na Fintech Principia Educação para estagiar como Data Engineer. Com certeza não teria conseguido esta oportunidade sem o programa de bolsas para me dar um pouco de experiência para adentrar na área. Quero destacar aqui porém que busco ser efetivado na Compass Uol para trabalhar como Data Engineer na companhia e retribuir o investimento que eles deram a mim no programa de bolsas.
+
  <hr>
 
 <div align="left">
