@@ -41,12 +41,14 @@ Neste gráfico podemos observar a soma das popularidade pelos principais filmes.
 
 <br>
 
-Aqui observamos este gráfico muito legal que mostra a contagem de registro por título original de filme, onde se destaca War
+Aqui observamos este gráfico muito legal que mostra a contagem de registro por título original de filme, onde se destaca War.
+
 ![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%2010/Imagens%20Dashboard/6-dashbord.PNG)
 
 <br>
 
-Este gráfico registra a contagem de registros de avaliação do IMDB e popularidade
+Este gráfico registra a contagem de registros de avaliação do IMDB e popularidade.
+
 ![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%2010/Imagens%20Dashboard/7-dashbord.PNG)
 
 <br>
@@ -54,6 +56,7 @@ Este gráfico registra a contagem de registros de avaliação do IMDB e populari
 ![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%2010/Imagens%20Dashboard/8-dashbord.PNG)
 
 <br> 
+
 E por último, um gráfico que demonstra popularidade por receita.
 
 <br>
