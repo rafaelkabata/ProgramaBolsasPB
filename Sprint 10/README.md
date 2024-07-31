@@ -27,15 +27,38 @@ O Caso do gráfico de bilheteria também acompanha a mesma situação do número
 
 <br>
 
+Neste gráfico podemos observar os orçamentos mais caros de filmes e sua receita. Observamos que nem sempre os filmes com maiores orçamentos são aqueles que apresentam a maior receita. O orçamento ajuda sim a alavancar um filme, porém, não é certeza de sucesso de receita, pois envolve diversas váriaveis.
 
+<br>
 
 
 ![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%2010/Imagens%20Dashboard/4-dashbord.PNG)
+
+<br>
+Neste gráfico podemos observar a soma das popularidade pelos principais filmes. Observamos que em primeiro lugar como mais popular Piratas do Caribe e Vingadores, onde foram também os que estiveram maiores orçamentos e receita, o que confirma a sua popularidade.
+
 ![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%2010/Imagens%20Dashboard/5-dashbord.PNG)
-![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%2010/Imagens%20Dashboard/4-dashbord.PNG)
+
+<br>
+
+Aqui observamos este gráfico muito legal que mostra a contagem de registro por título original de filme, onde se destaca War
 ![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%2010/Imagens%20Dashboard/6-dashbord.PNG)
+
+<br>
+
+Este gráfico registra a contagem de registros de avaliação do IMDB e popularidade
 ![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%2010/Imagens%20Dashboard/7-dashbord.PNG)
+
+<br>
+
 ![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%2010/Imagens%20Dashboard/8-dashbord.PNG)
+
+<br> 
+E por último, um gráfico que demonstra popularidade por receita.
+
+<br>
+
+A partir daqui, demonstra os dois panôramas específicos, para filmes de ação e ação e aventura
 ![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%2010/Imagens%20Dashboard/9-dashbord.PNG)
 ![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%2010/Imagens%20Dashboard/10-dashbord.PNG)
 ![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%2010/Imagens%20Dashboard/13-dashbord.PNG)
