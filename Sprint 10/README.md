@@ -43,27 +43,26 @@ Neste gráfico podemos observar a soma das popularidade pelos principais filmes.
 
 Aqui observamos este gráfico muito legal que mostra a contagem de registro por título original de filme, onde se destaca War.
 
-![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%2010/Imagens%20Dashboard/6-dashbord.PNG)
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%2010/Imagens%20Dashboard/8-dashbord.PNG)
 
 <br>
 
 Este gráfico registra a contagem de registros de avaliação do IMDB e popularidade.
 
-![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%2010/Imagens%20Dashboard/7-dashbord.PNG)
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%2010/Imagens%20Dashboard/9-dashbord.PNG)
 
 <br>
 
-![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%2010/Imagens%20Dashboard/8-dashbord.PNG)
+
 
 <br> 
 
 E por último, um gráfico que demonstra popularidade por receita.
+![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%2010/Imagens%20Dashboard/10-dashbord.PNG)
 
 <br>
 
-A partir daqui, demonstra os dois panôramas específicos, para filmes de ação e ação e aventura
-![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%2010/Imagens%20Dashboard/9-dashbord.PNG)
-![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%2010/Imagens%20Dashboard/10-dashbord.PNG)
+A partir daqui, demonstra os dois panôramas específicos, para filmes de ação e ação e aventura.
 ![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%2010/Imagens%20Dashboard/13-dashbord.PNG)
 ![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%2010/Imagens%20Dashboard/14-dashbord.PNG)
 ![Diagrama](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%2010/Imagens%20Dashboard/15-dashbord.PNG)
