@@ -31,35 +31,35 @@ Na pasta evidências podemos observar algumas imagens
 
 <br>
 
-### O principal objetivo do projeto foi desenvolver uma aplicação mobile para simplificar a consulta e o gerenciamento de informações essenciais como notas e presença.
+#### O principal objetivo do projeto foi desenvolver uma aplicação mobile para simplificar a consulta e o gerenciamento de informações essenciais como notas e presença.
 
 <br>
 
-## SQUAD 1:
-Cristiano - Product Owner
-Emily França - UX/UI
-Vinícius Costa - DevOPS
-Fabio Grigorim - Infra
-Gustavo - Dev
-Ryan - Dev
-Vinicius Candeira - Dev
-Leonardo Mendonça - Dev
+### SQUAD 1:
+Cristiano - Product Owner <br>
+Emily França - UX/UI <br>
+Vinícius Costa - DevOPS <br>
+Fabio Grigorim - Infra <br>
+Gustavo - Dev <br>
+Ryan - Dev <br>
+Vinicius Candeira - Dev <br>
+Leonardo Mendonça - Dev <br>
 
 <br>
 
-## SQUAD 2:
-Ricardo Keiti Kurita Matsumura - Product Owner
-Felipe dos Santos Souza - Dev backend
-Valmir Ribeiro Cardoso - Dev backend
-Elias Gabriel Souza Rodrigues - Dev backend
+###  SQUAD 2: 
+Ricardo Keiti Kurita Matsumura - Product Owner <br>
+Felipe dos Santos Souza - Dev backend <br>
+Valmir Ribeiro Cardoso - Dev backend <br>
+Elias Gabriel Souza Rodrigues - Dev backend <br>
 
 <br>
 
 ## SQUAD MATRICIAL:
-Rafael Kabata - Product Owner
-Derick Justo - UX/UI
-Diogo Kawaguchi - QA
-Taina Vianna - DevOps
+Rafael Kabata - Product Owner <br>
+Derick Justo - UX/UI <br>
+Diogo Kawaguchi - QA <br>
+Taina Vianna - DevOps <br>
 
 <br><br>
 
