@@ -32,6 +32,8 @@ Na pasta evidências podemos observar algumas imagens
 
 <br>
 
+#### [Pitch no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7261805516987777025/)
+
 ### SQUAD 1:
 Cristiano - Product Owner <br>
 Emily França - UX/UI <br>
@@ -58,11 +60,7 @@ Derick Justo - UX/UI <br>
 Diogo Kawaguchi - QA <br>
 Taina Vianna - DevOps <br>
 
-<br><br>
 
----------------------------------------------------------------------------------------------------
 
-<br>
 
-[Pitch no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7261805516987777025/)
 
