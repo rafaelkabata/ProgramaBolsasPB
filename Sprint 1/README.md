@@ -25,11 +25,8 @@ Na pasta evidências podemos observar algumas imagens
 
 # Projeto SUPER 
 
-<br>
-
 ## Projeto desenvolvido pelos alunos da FATEC REGISTRO como avaliação do Projeto Portfólio Online(PO)
 
-<br>
 
 #### O principal objetivo do projeto foi desenvolver uma aplicação mobile para simplificar a consulta e o gerenciamento de informações essenciais como notas e presença.
 
