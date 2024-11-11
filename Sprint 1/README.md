@@ -20,3 +20,52 @@ Na pasta evidências podemos observar algumas imagens
 - [Linux para Desenvolvedores ( c terminal, shell, apache e +)](https://github.com/rafaelkabata/ProgramaBolsasPB/blob/main/Sprint%201/certificados/Linux%20para%20Desenvolvedores%20(%20c%20terminal%2C%20shell%2C%20apache%20e%20%2B).jpg))
 
 </div>
+
+<br>
+
+# Projeto SUPER 
+
+<br>
+
+## Projeto desenvolvido pelos alunos da FATEC REGISTRO como avaliação do Projeto Portfólio Online(PO)
+
+<br>
+
+### O principal objetivo do projeto foi desenvolver uma aplicação mobile para simplificar a consulta e o gerenciamento de informações essenciais como notas e presença.
+
+<br>
+
+## SQUAD 1:
+Cristiano - Product Owner
+Emily França - UX/UI
+Vinícius Costa - DevOPS
+Fabio Grigorim - Infra
+Gustavo - Dev
+Ryan - Dev
+Vinicius Candeira - Dev
+Leonardo Mendonça - Dev
+
+<br>
+
+## SQUAD 2:
+Ricardo Keiti Kurita Matsumura - Product Owner
+Felipe dos Santos Souza - Dev backend
+Valmir Ribeiro Cardoso - Dev backend
+Elias Gabriel Souza Rodrigues - Dev backend
+
+<br>
+
+## SQUAD MATRICIAL:
+Rafael Kabata - Product Owner
+Derick Justo - UX/UI
+Diogo Kawaguchi - QA
+Taina Vianna - DevOps
+
+<br><br>
+
+---------------------------------------------------------------------------------------------------
+
+<br>
+
+[Link do Pitch no Linkedin](url:)
+
