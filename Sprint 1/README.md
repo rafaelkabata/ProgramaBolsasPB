@@ -64,5 +64,5 @@ Taina Vianna - DevOps <br>
 
 <br>
 
-[Link do Pitch no Linkedin](url:)
+[Link do Pitch no Linkedin]()
 
