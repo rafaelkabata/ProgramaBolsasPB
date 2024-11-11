@@ -64,5 +64,5 @@ Taina Vianna - DevOps <br>
 
 <br>
 
-[Link do Pitch no Linkedin]()
+[Pitch no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7261805516987777025/)
 
